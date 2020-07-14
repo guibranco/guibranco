@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on open source integrations projects with payment gateways, courier platforms and e-commerces platforms.
 - 💬 Ask me about PHP, JS (both frontend and backend, with NodeJS) and C#.
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
-- ⚡ Fun fact: LEGO lover
+- ⚡ Fun fact: LEGO lover.
