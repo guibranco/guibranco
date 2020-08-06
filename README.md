@@ -9,3 +9,6 @@
 - 💬 Ask me about PHP, C# and JS (both frontend and backend, with NodeJS).
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
+
+
+[![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
