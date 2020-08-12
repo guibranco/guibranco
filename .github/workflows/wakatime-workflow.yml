@@ -1,4 +1,4 @@
-name: Wakatime Updates
+name: Wakatime updates
 
 on:
   schedule:
