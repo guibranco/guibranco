@@ -12,6 +12,10 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [API/Banco de dados de feriados](https://blog.guilhermebranco.com.br/api-banco-de-dados-de-feriados/?utm_source=rss&utm_medium=rss&utm_campaign=api-banco-de-dados-de-feriados)
+- [Quanto cobrar ?](https://blog.guilhermebranco.com.br/quanto-cobrar/?utm_source=rss&utm_medium=rss&utm_campaign=quanto-cobrar)
+- [CLT vs PJ! Qual devo escolher ?](https://blog.guilhermebranco.com.br/clt-vs-pj-qual-devo-escolher/?utm_source=rss&utm_medium=rss&utm_campaign=clt-vs-pj-qual-devo-escolher)
+- [Bancos Brasileiros](https://blog.guilhermebranco.com.br/bancos-brasileiros/?utm_source=rss&utm_medium=rss&utm_campaign=bancos-brasileiros)
 <!-- BLOG-POST-LIST:END -->
 
 
