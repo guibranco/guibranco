@@ -10,7 +10,7 @@
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
 
-## 📕 Blog posts - https://blog.guilhermebranco.com.br
+## 📕 Latest blog posts - https://blog.guilhermebranco.com.br
 
 <!-- BLOG-POST-LIST:START -->
 - [API/Banco de dados de feriados](https://blog.guilhermebranco.com.br/api-banco-de-dados-de-feriados/?utm_source=rss&utm_medium=rss&utm_campaign=api-banco-de-dados-de-feriados)
@@ -25,7 +25,7 @@
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
-## 📊 WakaTime stats - https://wakatime.com/@guistracini
+## 📊 WakaTime weekly stats - https://wakatime.com/@guistracini
 
 <!--START_SECTION:waka-->
 ```text
