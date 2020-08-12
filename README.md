@@ -11,6 +11,7 @@
 - ⚡ Fun fact: LEGO lover.
 
 ## 📕 Blog posts - https://blog.guilhermebranco.com.br
+
 <!-- BLOG-POST-LIST:START -->
 - [API/Banco de dados de feriados](https://blog.guilhermebranco.com.br/api-banco-de-dados-de-feriados/?utm_source=rss&utm_medium=rss&utm_campaign=api-banco-de-dados-de-feriados)
 - [Quanto cobrar ?](https://blog.guilhermebranco.com.br/quanto-cobrar/?utm_source=rss&utm_medium=rss&utm_campaign=quanto-cobrar)
@@ -19,11 +20,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub stats
+
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
-## 📊 WakaTime stats
+## 📊 WakaTime stats - https://wakatime.com/@guistracini
+
 <!--START_SECTION:waka-->
 ```text
 C#           11 hrs 21 mins  ███████████████████░░░░░░   79.25 % 
