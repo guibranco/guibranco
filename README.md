@@ -18,8 +18,11 @@
 - [Bancos Brasileiros](https://blog.guilhermebranco.com.br/bancos-brasileiros/?utm_source=rss&utm_medium=rss&utm_campaign=bancos-brasileiros)
 <!-- BLOG-POST-LIST:END -->
 
-
 ## 📊 GitHub stats
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
+
+## 📊 WakaTime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
