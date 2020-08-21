@@ -1,4 +1,5 @@
-# Hi there! I'm Guilherme 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermestracini/)](https://www.linkedin.com/in/guilhermestracini/)
+# Hi there! I'm Guilherme 👋 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermestracini/)](https://www.linkedin.com/in/guilhermestracini/)
 
 - 🔭 I’m currently working on a bank, as a backend engineer, using C#, Docker, Azure DevOps and SQL Server to develop the PIX solution (Brazilian Instant Payments system). I've also worked on Open Banking and API Banking (BaaS - Bank as a Service) projects. 
 - 🔭 In the past I worked with e-commerce, for about 8 years.
@@ -8,7 +9,8 @@
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
 
-## 📕 Latest blog posts [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
+## 📕 Latest blog posts 
+[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
 
 <!-- BLOG-POST-LIST:START -->
 - [Série: Como se tornar um desenvolvedor web ? Parte 2: Front-end vs Back-end](https://blog.guilhermebranco.com.br/serie-desenvolvedor-web-parte-2/?utm_source=rss&utm_medium=rss&utm_campaign=serie-desenvolvedor-web-parte-2)
@@ -18,13 +20,15 @@
 - [CLT vs PJ! Qual devo escolher ?](https://blog.guilhermebranco.com.br/clt-vs-pj-qual-devo-escolher/?utm_source=rss&utm_medium=rss&utm_campaign=clt-vs-pj-qual-devo-escolher)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub stats [![Wakatime Badge](wakatime-badge.svg)](https://wakatime.com/@guistracini)
+## 📊 GitHub stats 
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco)
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
-## 📊 WakaTime weekly stats - https://wakatime.com/@guistracini
+## 📊 WakaTime weekly stats 
+[![Wakatime Badge](wakatime-badge.svg)](https://wakatime.com/@guistracini)
 
 <!--START_SECTION:waka-->
 ```text
