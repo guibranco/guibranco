@@ -13,6 +13,7 @@
 ## 📕 Latest blog posts - https://blog.guilhermebranco.com.br
 
 <!-- BLOG-POST-LIST:START -->
+- [Série: Como se tornar um desenvolvedor web ? Parte 1: As principais profissões](https://blog.guilhermebranco.com.br/serie-desenvolvedor-web-parte-1/?utm_source=rss&utm_medium=rss&utm_campaign=serie-desenvolvedor-web-parte-1)
 - [API/Banco de dados de feriados](https://blog.guilhermebranco.com.br/api-banco-de-dados-de-feriados/?utm_source=rss&utm_medium=rss&utm_campaign=api-banco-de-dados-de-feriados)
 - [Quanto cobrar ?](https://blog.guilhermebranco.com.br/quanto-cobrar/?utm_source=rss&utm_medium=rss&utm_campaign=quanto-cobrar)
 - [CLT vs PJ! Qual devo escolher ?](https://blog.guilhermebranco.com.br/clt-vs-pj-qual-devo-escolher/?utm_source=rss&utm_medium=rss&utm_campaign=clt-vs-pj-qual-devo-escolher)
