@@ -18,7 +18,7 @@
 - [CLT vs PJ! Qual devo escolher ?](https://blog.guilhermebranco.com.br/clt-vs-pj-qual-devo-escolher/?utm_source=rss&utm_medium=rss&utm_campaign=clt-vs-pj-qual-devo-escolher)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub stats [![Wakatime Badge](wakatime-badge.svg](https://wakatime.com/@guistracini)
+## 📊 GitHub stats [![Wakatime Badge](wakatime-badge.svg)](https://wakatime.com/@guistracini)
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
 
