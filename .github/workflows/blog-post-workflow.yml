@@ -14,4 +14,5 @@ jobs:
         with:
           feed_list: "https://blog.guilhermebranco.com.br/feed/"
           template: " [$title]($url) $date $newline "
-          date_format: "dd/mm/yyyy"  
+          date_format: "dd/mm/yyyy"
+          tag_post_pre_newline: true
