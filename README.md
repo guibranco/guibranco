@@ -13,7 +13,7 @@
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
 
-## 📕 Latest blog posts 
+## 📕 Latest blog posts (most in PT-BR! 🇧🇷)
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
 
 <!-- BLOG-POST-LIST:START -->
