@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/guistracini/)](https://www.instagram.com/guistracini/)
 
 - 🔭 I’m currently working on a bank, as a backend engineer, using C#, Docker, Azure DevOps and SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Bank as a Service)](https://devs.bs2.com/) projects. 
-- 🔭 In the past I worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS).
+- 🔭 In the past I worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
 - 🌱 I’m currently learning Rust and Python.
 - 🌱 In the meantime, playing with Flutter, React and Kafka.
 - 👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
