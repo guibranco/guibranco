@@ -49,19 +49,18 @@
 - [CLT vs PJ! Qual devo escolher ?](https://blog.guilhermebranco.com.br/clt-vs-pj-qual-devo-escolher/?utm_source=rss&utm_medium=rss&utm_campaign=clt-vs-pj-qual-devo-escolher)
 <!-- BLOG-POST-LIST:END -->
 
-## [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) Stats 
-
-[![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
-
-[![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
-
 ## [![Wakatime Badge](https://raw.githubusercontent.com/guibranco/guibranco/master/wakatime-badge.svg)](https://wakatime.com/@guistracini) Weekly stats 
 
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka -->
 ```text
 C#         24 hrs 11 mins  ███████████████████▒░░░░░   77.59 % 
 Markdown   2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 YAML       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 Other      1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % ``
-<!--END_SECTION:waka-->
+JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+```
+<!-- END_SECTION:waka -->
+
+## [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) Stats 
+
+[![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco) [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
