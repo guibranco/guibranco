@@ -36,6 +36,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
+<img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=Azure-devops&logoColor=white" />
 <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
 <img alt="Nuget" src="https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=nuget&logoColor=white" /> 
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
