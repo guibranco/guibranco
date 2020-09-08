@@ -13,7 +13,7 @@
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
 
-## 📚 Things I code with
+## [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco)  Things I code with
 
 <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" /> 
 <img alt="Php" src="https://img.shields.io/badge/-Php-4F5B93?style=flat-square&logo=php&logoColor=white" /> 
@@ -38,8 +38,7 @@
 <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> 
 <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> 
 
-## 📕 Latest blog posts (most in PT-BR! 🇧🇷)
-[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
+## [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br) Latest blog posts (most in PT-BR! 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
 - [Série: Como se tornar um desenvolvedor web ? Parte 2: Front-end vs Back-end](https://blog.guilhermebranco.com.br/serie-desenvolvedor-web-parte-2/?utm_source=rss&utm_medium=rss&utm_campaign=serie-desenvolvedor-web-parte-2)
@@ -49,15 +48,14 @@
 - [CLT vs PJ! Qual devo escolher ?](https://blog.guilhermebranco.com.br/clt-vs-pj-qual-devo-escolher/?utm_source=rss&utm_medium=rss&utm_campaign=clt-vs-pj-qual-devo-escolher)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub stats 
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco)
+## [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) GitHub stats 
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco)
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
-## 📊 WakaTime weekly stats 
-[![Wakatime Badge](https://raw.githubusercontent.com/guibranco/guibranco/master/wakatime-badge.svg)](https://wakatime.com/@guistracini)
+## [![Wakatime Badge](https://raw.githubusercontent.com/guibranco/guibranco/master/wakatime-badge.svg)](https://wakatime.com/@guistracini) WakaTime weekly stats 
+
 
 <!--START_SECTION:waka-->
 ```text
