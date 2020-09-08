@@ -13,7 +13,7 @@
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
 
-## Things I code with
+## 📚 Things I code with
 
 <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" /> 
 <img alt="Php" src="https://img.shields.io/badge/-Php-4F5B93?style=flat-square&logo=php&logoColor=white" /> 
@@ -65,6 +65,5 @@ C#         24 hrs 11 mins  █████████████████�
 Markdown   2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 YAML       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 Other      1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
+JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % ``
 <!--END_SECTION:waka-->
