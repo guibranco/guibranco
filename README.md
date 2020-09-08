@@ -29,11 +29,14 @@
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> 
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> 
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=amazon-aws&logoColor=white" /> 
 <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
 <img alt="Nuget" src="https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=nuget&logoColor=white" /> 
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
+<img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> 
+<img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> 
 
 ## 📕 Latest blog posts (most in PT-BR! 🇧🇷)
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
@@ -62,6 +65,5 @@ C#         24 hrs 11 mins  █████████████████�
 Markdown   2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 YAML       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 Other      1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
+JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % ``
 <!--END_SECTION:waka-->
