@@ -19,10 +19,10 @@
 ## Things I code with
 
 <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" /> 
-<img alt="Php" src="https://img.shields.io/badge/-Php-4F5B93?style=flat-square&logo=php&logoColor=white" /> 
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> 
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> 
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
+<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
