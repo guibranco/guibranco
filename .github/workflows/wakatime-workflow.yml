@@ -1,9 +1,9 @@
 name: Wakatime updates
 
 on:
-  schedule:
-  - cron: "30 * * * *"
   workflow_dispatch:
+  schedule:
+  - cron: "30 * * * *"  
 
 jobs:
   update-readme:
@@ -14,3 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TITLE: true  
