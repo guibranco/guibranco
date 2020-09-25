@@ -56,13 +56,6 @@
 ## Wakatime weekly stats 
 
 <!-- START_SECTION:waka -->
-```text
-C#         24 hrs 11 mins  ███████████████████▒░░░░░   77.59 % 
-Markdown   2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-YAML       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Other      1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JSON       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
 <!-- END_SECTION:waka -->
 
 ## Github Stats 
