@@ -63,9 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
-
-C#   17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
