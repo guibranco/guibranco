@@ -8,7 +8,7 @@
 [![Wakatime Badge](https://raw.githubusercontent.com/guibranco/guibranco/master/wakatime-badge.svg)](https://wakatime.com/@guistracini) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) 
 
-- 🔭 Currentlly working in [Farfetch](https://www.farfetch.com/), a global e-commerce platform, as a backend engineer.
+- 🔭 Currentlly working in [Farfetch](https://www.farfetch.com/), which is a leading global platform in the luxury fashion online market, as a backend engineer.
 - 🔭 Over one and a half year working in a bank ([BS2](https://www.bancobs2.com.br)), as a backend engineer, using C#, Docker, RabbitMQ, Azure DevOps and SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Bank as a Service)](https://devs.bs2.com/) projects. 
 - 🔭 In the past I worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
 - 🌱 I’m currently learning Rust and Python.
