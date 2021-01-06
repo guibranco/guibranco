@@ -8,7 +8,7 @@
 [![Wakatime Badge](https://raw.githubusercontent.com/guibranco/guibranco/master/wakatime-badge.svg)](https://wakatime.com/@guistracini) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) 
 
-- 🔭 Currentlly working in [Farfetch](https://www.farfetch.com/), which is a leading global platform in the luxury fashion online market, as a backend engineer.
+- 🔭 Currentlly working in [Farfetch](https://www.farfetch.com/), which is a leading global platform in the luxury fashion online market, as a backend engineer, working with C#, Docker, Apache Kafka, Apache Cassandra, Elastic Search, Jenkins on the Search & Scouts team.
 - 🔭 Over one and a half year working in a bank ([BS2](https://www.bancobs2.com.br)), as a backend engineer, using C#, Docker, RabbitMQ, Azure DevOps and SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Bank as a Service)](https://devs.bs2.com/) projects. 
 - 🔭 In the past I worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
 - 🌱 I’m currently learning Rust and Python.
@@ -35,10 +35,11 @@
 <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /> 
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white" /> 
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> 
-<img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> 
-<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> 
+
+<img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" /> 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=Azure-devops&logoColor=white" />
