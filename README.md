@@ -9,6 +9,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) 
 
 - 🔭 Currentlly working in [Talabat](https://talabat.com), which is an online food ordering company, as a backend engineer, working with C#, Docker, Amazon SQS, SQL Server, and other tools on Grocery Fulfillment team.
+- 🔭 Also working part-time on [Syndigo](https://syndigo.com/) that is a Product Information Management (PIM) platform.
 - 🔭 Also working part-time on [FCamara](https://thebridge.social/) for the Open Banking project.
 - 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C#, Docker, RabbitMQ, Azure DevOps and SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Bank as a Service)](https://devs.bs2.com/) projects. 
 - 🔭 In the past I worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
@@ -63,7 +64,6 @@
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
-
 
 ## Latest blog posts (most in PT-BR! 🇧🇷)
 
