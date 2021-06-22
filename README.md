@@ -55,7 +55,6 @@
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Swarm" src="https://img.shields.io/badge/-Swarm-FFA633?style=flat-square&logo=swarm&logoColor=white" />
-<img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
 <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> 
 <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> 
 <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-FA6800?style=flat-square&logo=grafana&logoColor=white" />
