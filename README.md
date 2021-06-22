@@ -68,6 +68,10 @@
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
 
+## Projects
+
+<!-- start: readme-repos-list --><!-- end: readme-repos-list -->
+
 ## Latest blog posts (most in PT-BR! 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
