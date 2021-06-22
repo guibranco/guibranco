@@ -8,7 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) 
 
 - 💁 My name is **Guilherme Branco Stracini**. The correct pronunciation of my name is **[ɡiˈʎɛɾmi]**, that's a portuguese name. If you prefer, you can call me just **Branco**.
-- 🔭 Currentlly working in [Talabat](https://talabat.com), which is an online food ordering company in [MENA](https://en.wikipedia.org/wiki/MENA/), as a backend engineer, working with C#, Docker, Amazon SQS, SQL Server, and other tools on Grocery Fulfillment team.
+- 🔭 Currently working in [Talabat](https://talabat.com), which is an online food ordering company in [MENA](https://en.wikipedia.org/wiki/MENA/), as a backend engineer, working with C#, Docker, Amazon SQS, SQL Server, and other tools on Grocery Fulfillment team.
 - 🔭 Part-time projects: 
    - [Syndigo](https://syndigo.com/) that is a Product Information Management (PIM) platform.
    - [FCamara](https://fcamara.com.br/)🇧🇷 for the [Open Banking project](https://www.bcb.gov.br/estabilidadefinanceira/openbanking/).
