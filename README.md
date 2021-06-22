@@ -9,10 +9,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) 
 
 - 🔭 Currentlly working in [Talabat](https://talabat.com), which is an online food ordering company, as a backend engineer, working with C#, Docker, Amazon SQS, SQL Server, and other tools on Grocery Fulfillment team.
-- 🔭 Also working part-time on [Syndigo](https://syndigo.com/) that is a Product Information Management (PIM) platform.
-- 🔭 Also working part-time on [FCamara](https://thebridge.social/) for the Open Banking project.
+- 🔭 Part-time projects: 
+   - [Syndigo](https://syndigo.com/) that is a Product Information Management (PIM) platform.
+   - [FCamara](https://fcamara.com.br/) for the Open Banking project.
 - 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C#, Docker, RabbitMQ, Azure DevOps and SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Bank as a Service)](https://devs.bs2.com/) projects. 
-- 🔭 In the past I worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
+- 🔭 In the past, worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
+- 🔭 Also worked in: [C&A](https://www.cea.com.br/), [Farfetch](https://farfetch.pt/), [Inovação Media Brasil](https://www.inovacaomedia.com.br/), [The Bridge Social](https://thebridge.social/), [Grace Kennedy Group](https://gracekennedy.com/)
 - 🌱 I’m currently learning Rust and Python.
 - 🌱 In the meantime, playing with Flutter, React and Kafka.
 - 👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
@@ -50,6 +52,7 @@
 <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Nuget" src="https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=nuget&logoColor=white" /> 
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" /> 
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Swarm" src="https://img.shields.io/badge/-Swarm-FFA633?style=flat-square&logo=swarm&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
