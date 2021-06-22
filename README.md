@@ -70,7 +70,20 @@
 
 ## Projects
 
-<!-- start: readme-repos-list --><!-- end: readme-repos-list -->
+<!-- start: readme-repos-list -->
+<!-- This list is auto-generated using koj-co/readme-repos-list -->
+<!-- Do not edit this list manually, your changes will be overwritten -->
+[![guibranco/MSBuild.Version.Target](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/MSBuild.Version.Target/)
+[![guibranco/guibranco.github.io](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io)
+[![guibranco/pagarme-sdk-dotnet](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/guibranco/pagarme-sdk-dotnet)
+[![guibranco/holiday-api-rust](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/holiday-api-rust/)
+[![guibranco/GuiStracini.HolidayAPI](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/GuiStracini.HolidayAPI/)
+[![guibranco/viacep-rs](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/viacep-rs/)
+[![guibranco/VTEX-SDK-dotnet](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/VTEX-SDK-dotnet/)
+[![guibranco/PIX-BACEN-SDK-DotNet](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/PIX-BACEN-SDK-DotNet/)
+[![guibranco/ViaCEP](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/ViaCEP/)
+[![guibranco/BancosBrasileiros](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F3362854%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://guibranco.github.io/BancosBrasileiros/)
+<!-- end: readme-repos-list -->
 
 ## Latest blog posts (most in PT-BR! 🇧🇷)
 
