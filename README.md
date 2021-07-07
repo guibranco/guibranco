@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Rust and Python.
 - 🌱 In the meantime, playing with Flutter, React and Kafka.
 - 👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
-- 💬 Ask me about PHP, C# and JS.
+- 💬 Ask me about: C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, design patterns.
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: LEGO lover.
 
