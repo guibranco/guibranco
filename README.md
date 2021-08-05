@@ -6,6 +6,9 @@
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
 [![Wakatime Badge](https://img.shields.io/badge/-Wakatime-black?style=for-the-badge&logo=wakatime&logoColor=black&labelColor=white&link=https://wakatime.com/@guistracini)](https://wakatime.com/@guistracini) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/guibranco/)](https://github.com/guibranco) 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=flat-square">
+</a>
 
 - 💁 My name is **Guilherme Branco Stracini**. The correct pronunciation of my name is **[ɡiˈʎɛɾmi]**, that's a portuguese name. If you prefer, you can call me just **Branco**.
 - 🔭 Currently working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an online food ordering company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C#, Docker, Amazon SQS, SQL Server, and other tools on Grocery Fulfillment team.
