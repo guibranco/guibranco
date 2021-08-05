@@ -93,3 +93,5 @@ Markdown   5 mins          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## Github Stats 
 
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/guibranco) [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
+
+![](https://hit.yhype.me/github/profile?user_id=3362854)
