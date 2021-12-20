@@ -12,10 +12,9 @@
 
 - 💁 My name is **Guilherme Branco Stracini**. The correct pronunciation of my name is **[ɡiˈʎɛɾmi]**, that's a portuguese name. If you prefer, you can call me just **Branco** (pronunciation: **['bɾɐ̃ku]**).
 - 🔭 Currently working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an online food ordering company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C#, Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, and other tools on Grocery Fulfillment squad.
-- 🔭 Also working on [Syndigo](https://syndigo.com/) 🇺🇲 that is a Product Information Management (PIM) platform.
 - 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C#, Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 - 🔭 In the past, worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
-- 🔭 Also worked in: [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Inovação Media Brasil](https://www.inovacaomedia.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
+- 🔭 Also worked in: [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Inovação Media Brasil](https://www.inovacaomedia.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 - 🌱 I’m currently learning Rust and Python.
 - 🌱 In the meantime, playing with Flutter, React and Kafka.
 - 👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
