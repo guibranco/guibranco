@@ -15,7 +15,7 @@
 - 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C#, Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 - 🔭 In the past, worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
 - 🔭 Also worked in: [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Inovação Media Brasil](https://www.inovacaomedia.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
-- 🌱 I’m currently learning Rust and Python.
+- 🌱 I’m currently learning Go, Rust and Python.
 - 🌱 In the meantime, playing with Flutter, React and Kafka.
 - 👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
 - 💬 Ask me about: C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, design patterns.
