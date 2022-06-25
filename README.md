@@ -87,7 +87,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 June 2022 - To: 24 June 2022
+
+Markdown   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
