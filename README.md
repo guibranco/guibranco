@@ -86,13 +86,6 @@
 ## Wakatime weekly stats 
 
 <!--START_SECTION:waka-->
-
-```text
-From: 19 July 2022 - To: 26 July 2022
-
-Other        16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.71 %
-```
-
 <!--END_SECTION:waka-->
 
 ## Github Stats 
