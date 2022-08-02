@@ -83,7 +83,7 @@
 - [Quanto cobrar ?](https://blog.guilhermebranco.com.br/quanto-cobrar/?utm_source=rss&utm_medium=rss&utm_campaign=quanto-cobrar)
 <!-- BLOG-POST-LIST:END -->
 
-## Wakatime weekly stats 
+<!--## Wakatime weekly stats-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
