@@ -92,4 +92,5 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge">
 </a>
+
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
