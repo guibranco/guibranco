@@ -10,18 +10,25 @@
 
 
 🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an online food ordering company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C# (.NET 6), Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, PostgreSQL, CircleCI, Terraform and other tools on Grocery tribe at Finding and Shopping Team (FAST) squad.
+
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
+
 🔭 In the past, worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
+
 🔭 Also worked in: [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Inovação Media Brasil](https://www.inovacaomedia.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 
 
 🌱 I’m currently learning Go, Rust and Python, in the meantime, playing with Flutter, React and Kafka.
+
 👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
+
 💬 Ask me about: C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, design patterns.
 
 
 📫 How to reach me: guilherme@guilhermebranco.com.br
+
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
+
 🌱 POCs, hello world and learning things avaiable at [@GuilhermeStracini](https://github.com/GuilhermeStracini) GitHub org account.
 
 ## Things I code with
