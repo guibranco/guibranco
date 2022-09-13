@@ -97,7 +97,7 @@
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/guibranco)
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
-## Wakatime Stats
+## Wakatime Stats (since April 10, 2015)
 
 [![GuiStracini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true)](https://wakatime.com/@guistracini)
 
