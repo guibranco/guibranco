@@ -16,7 +16,7 @@
 - 💬 Ask me about: C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, design patterns.
 - 📫 How to reach me: guilherme@guilhermebranco.com.br
 - ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
-- 🌱 POCs, hello world and study projects GitHub account: [@GuilhermeStracini](https://github.com/GuilhermeStracini)
+- 🌱 POCs, hello world and learning things avaiable at [@GuilhermeStracini](https://github.com/GuilhermeStracini) GitHub org account.
 
 ## Things I code with
 
