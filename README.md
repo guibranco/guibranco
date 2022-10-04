@@ -94,7 +94,7 @@
 
 ## Github Stats 
 
-[![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/guibranco)
+[![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_title=true&card_width=490)](https://github.com/guibranco)
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guibranco&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
