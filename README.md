@@ -97,11 +97,19 @@
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_title=true&card_width=490)](https://github.com/guibranco)
 [![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/guibranco)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=guibranco&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=guibranco&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophy" />
+    </a>
+</p>
 
 ## Wakatime Stats (since April 10, 2015)
 
-[![GuiStracini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true)](https://wakatime.com/@guistracini)
+<p align="center">
+    <a href="https://wakatime.com/@guistracini">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true" alt="GuiStracini's wakatime stats" />
+    </a>
+</p>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge">
