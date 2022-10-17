@@ -10,7 +10,7 @@
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dubai, UAE 🇦🇪. The correct pronunciation of my name is **[ɡiˈʎɛɾmi]**, that's a portuguese name. If you prefer, you can call me just **Branco** (pronunciation: **['bɾɐ̃ku]**).
 
 
-🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an online food ordering company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C# (.NET 6), Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, PostgreSQL, CircleCI, Terraform and other tools on Grocery tribe at Finding and Shopping Team (FAST) squad.
+🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an online food/grocery/QCommerce ordering company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C# (.NET 6), Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, PostgreSQL, CircleCI, Terraform and other tools on Grocery tribe at Finding and Shopping Team (FAST).
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
