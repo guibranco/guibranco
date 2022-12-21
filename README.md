@@ -117,8 +117,9 @@
 
 ## Github Stats 
 
-[![Guibranco's github stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/guibranco)
-[![Guibranco's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/guibranco)
+[![GuiBranco's GitHub stats](https://github-readme-stats.vercel.app/api?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/guibranco)
+[![GuiBranco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/guibranco)
+<!--[![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-dark&fire=DD2727)](https://git.io/streak-stats)-->
 
 ## Wakatime Stats (since April 10, 2015)
 
