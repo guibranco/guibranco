@@ -123,10 +123,8 @@
 
 ## Wakatime Stats (since April 10, 2015)
 
-<p align="center">
-    <a href="https://wakatime.com/@guistracini">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true" alt="GuiStracini's wakatime stats" />
-    </a>
-</p>
+<a href="https://wakatime.com/@guistracini">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true" alt="GuiStracini's wakatime stats" />
+</a>
 
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
