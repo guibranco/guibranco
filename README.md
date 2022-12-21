@@ -18,7 +18,7 @@
 
 🔭 In the past, worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
 
-🔭 Also worked in: [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Inovação Media Brasil](https://www.inovacaomedia.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
+🔭 Also worked in: [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 
 
 🌱 I’m currently learning Go, Rust and Python, in the meantime, playing with Flutter, React and Kafka.
@@ -33,7 +33,19 @@
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
 <img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" alt="Lego Creator collection" />
 
-🌱 POCs, hello world and learning things avaiable at [@GuilhermeStracini](https://github.com/GuilhermeStracini) GitHub org account.
+## Organizations
+
+[![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) Main account with stable projects.
+
+[![@GuilhermeStracini](https://img.shields.io/badge/-GuilhermeStracini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeStracini) POCs, Hello Worlds and learning stuff.
+
+[![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) API BR project (free apis with brazilian data).
+
+[![@DotNetDevBR](https://img.shields.io/badge/-.NETDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnetdevbr) Job opportunities for .NET developers in Brazil.
+
+[![@ApiBR](https://img.shields.io/badge/-PyDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydevbr) Job opportunities for Python developers in Brazil.
+
+[![@ApiBR](https://img.shields.io/badge/-RustDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustdevbr) Job opportunities for Rust developers in Brazil.
 
 ## Things I code with
 
