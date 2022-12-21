@@ -84,7 +84,10 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Swarm" src="https://img.shields.io/badge/-Swarm-FFA633?style=flat-square&logo=swarm&logoColor=white" />
 <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> 
 <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> 
-<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-FA6800?style=flat-square&logo=grafana&logoColor=white" />
+
+<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-FA6800?style=flat-square&logo=grafana&logoColor=white" /> <img alt="New Relic" src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" />
+<img alt="Graylog" src="https://img.shields.io/badge/-Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" />
+<img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
 
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img alt="Team City" src="https://img.shields.io/badge/-Team_City-000000?style=flat-square&logo=teamcity&logoColor=white" />
 <img alt="AppVeyor" src="https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat-square&logo=appveyor&logoColor=white" />
@@ -93,10 +96,14 @@
 
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Argo CD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
 
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
 
 ## Latest blog posts (most in PT-BR! 🇧🇷)
 
