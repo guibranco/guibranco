@@ -108,11 +108,11 @@
 ## Latest blog posts (most in PT-BR! 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
+- [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)
 - [Bloco de notas: Onde investir](https://blog.guilhermebranco.com.br/bloco-de-notas-onde-investir/?utm_source=rss&utm_medium=rss&utm_campaign=bloco-de-notas-onde-investir)
 - [Série: Desenvolvedor web. Parte 2: Front-end vs Back-end](https://blog.guilhermebranco.com.br/serie-desenvolvedor-web-parte-2/?utm_source=rss&utm_medium=rss&utm_campaign=serie-desenvolvedor-web-parte-2)
 - [Série: Desenvolvedor web. Parte 1: As principais profissões](https://blog.guilhermebranco.com.br/serie-desenvolvedor-web-parte-1/?utm_source=rss&utm_medium=rss&utm_campaign=serie-desenvolvedor-web-parte-1)
 - [API/Banco de dados de feriados](https://blog.guilhermebranco.com.br/api-banco-de-dados-de-feriados/?utm_source=rss&utm_medium=rss&utm_campaign=api-banco-de-dados-de-feriados)
-- [Quanto cobrar ?](https://blog.guilhermebranco.com.br/quanto-cobrar/?utm_source=rss&utm_medium=rss&utm_campaign=quanto-cobrar)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 
