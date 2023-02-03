@@ -108,11 +108,11 @@
 ## Latest blog posts (most in PT-BR! 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
+- [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
 - [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
 - [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
 - [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)
 - [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)
-- [Bloco de notas: Onde investir](https://blog.guilhermebranco.com.br/bloco-de-notas-onde-investir/?utm_source=rss&utm_medium=rss&utm_campaign=bloco-de-notas-onde-investir)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 
