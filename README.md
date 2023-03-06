@@ -78,7 +78,6 @@ Queue: <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?st
 
 Package: <img alt="Nuget" src="https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=nuget&logoColor=white" /> 
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
-<img alt="YARN" src="https://img.shields.io/badge/-YARN-2C8EBB?style=flat-square&logo=yarn&logoColor=white" /> 
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" /> 
 <img alt="Cargo" src="https://img.shields.io/badge/-Cargo-F9F7EC?style=flat-square&logo=rust&logoColor=black" /> 
 
