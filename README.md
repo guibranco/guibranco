@@ -9,13 +9,13 @@
 [![CodersRank Badge](https://img.shields.io/badge/-CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/guibranco)](https://profile.codersrank.io/user/guibranco)
 [![ProfileViews](https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dubai, UAE 🇦🇪. The correct pronunciation of my name is **[ɡiˈʎɛɾmi]**, that's a portuguese name. If you prefer, you can call me just **Branco** (pronunciation: **['bɾɐ̃ku]**).
+💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dubai, UAE 🇦🇪. The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme). If you prefer, you can call me just [**Branco** (pronunciation: **['bɾɐ̃ku]**)](https://en.wikipedia.org/wiki/Branco_(surname)).
 
 🎂 Experience (in years): 12+ **C# .NET** / 5+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 1+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
 
 🛂 Brazil (Latin America) and Portugal (European Union) passports. Work permit in this areas, no sponsorship needed.
 
-🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an food/grocery/qcommerce delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C# (.NET Core/5/6/7), Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, PostgreSQL, CircleCI, Terraform and other tools on Grocery tribe at Finding and Shopping Team (FAST).
+🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is an food/grocery/qcommerce delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C# (.NET Core/5/6/7), Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, PostgreSQL, CircleCI, Terraform and other tools on Grocery tribe in Shopping Experience (SHOPX) squad (Former FAST - Finding and Shopping Team).
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
@@ -23,6 +23,7 @@
 
 🔭 Companies I worked: [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲,  [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 
+---
 
 🌱 I’m currently learning Go, Rust and Python, in the meantime, playing with Flutter, React and Kafka.
 
@@ -30,6 +31,7 @@
 
 💬 Ask me about: C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, design patterns.
 
+---
 
 📫 How to reach me: guilherme@guilhermebranco.com.br
 
@@ -136,7 +138,9 @@ Testing: <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?st
 [![GuiBranco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/guibranco)
 <!--[![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-dark&fire=DD2727)](https://git.io/streak-stats)-->
 
-## Wakatime Stats (since April 10, 2015)
+## Wakatime Stats 
+
+(since April 10, 2015)
 
 <a href="https://wakatime.com/@guistracini">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true" alt="GuiStracini's wakatime stats" />
