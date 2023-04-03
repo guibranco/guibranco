@@ -11,7 +11,7 @@
 
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dubai, UAE 🇦🇪. The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme). If you prefer, you can call me just [**Branco** (pronunciation: **['bɾɐ̃ku]**)](https://en.wikipedia.org/wiki/Branco_(surname)).
 
-🎂 Experience (in years): 12+ **C# .NET** / 5+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 1+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
+🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 3+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
 
 🛂 Brazil (Latin America) and Portugal (European Union) passports. Work permit in this areas, no sponsorship needed.
 
