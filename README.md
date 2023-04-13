@@ -19,9 +19,9 @@
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
-🔭 In the past, worked with e-commerce, for about 8 years (major time using [VTEX](https://vtex.com) as PaaS - Platform as a Service).
+🔭 In the past, worked with e-commerce, for about 8 years. Major time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
 
-🔭 Companies I worked: [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲,  [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
+🔭 Companies I worked: [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 
 ---
 
