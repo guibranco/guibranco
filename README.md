@@ -15,7 +15,7 @@
 
 🛂 Brazil (Latin America) and Portugal (European Union) passports. Work permit in this areas, no sponsorship needed.
 
-🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [QCommerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), as a backend engineer, working with C# (.NET Core/5/6/7), Docker, Amazon SQS, Amazon SNS, Microsoft SQL Server, PostgreSQL, CircleCI, Terraform and other tools on Grocery tribe in Shopping Experience (SHOPX) squad (Former FAST - Finding and Shopping Team).
+🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [QCommerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
