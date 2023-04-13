@@ -36,6 +36,7 @@
 📫 How to reach me: guilherme@guilhermebranco.com.br
 
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
+
 <img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" alt="Lego Creator collection" />
 
 ## Organizations
