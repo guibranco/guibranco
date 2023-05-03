@@ -14,7 +14,7 @@
 
 🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 3+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
 
-🛂 Brazil (Latin America) and Portugal (European Union) passports. Work permit in this areas, no sponsorship needed.
+🛂 Brazilian (Latin America) and Portuguese (European Union) passports. Work permit in this areas, no sponsorship needed.
 
 🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [QCommerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
 
