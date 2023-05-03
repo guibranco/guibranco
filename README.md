@@ -10,7 +10,7 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dubai, UAE 🇦🇪. <br />
-The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
+🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
 🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 3+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
 
