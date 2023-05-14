@@ -24,7 +24,7 @@
 
 🔭 In the past, worked with e-commerce, for about 8 years. Major time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
 
-🔭 Companies I worked: [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
+🔭 Companies I worked: [OUTsurance](https://www.outsurance.co.za) 🇮🇪, [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 
 ---
 
