@@ -18,9 +18,9 @@
 
 ---
 
-🔭 Currently working in [OUTsurance Ireland](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦, as a senior backend engineer, wokring with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ and other tools, build the finance services for the Ireland project.
+🔭 Currently working in [OUTsurance Ireland](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦, based in Dublin, Ireland 🇮🇪 as a senior backend engineer, working with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ and other tools, building the finance services for the Ireland project.
 
-🔭 Two years working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
+🔭 Two years working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE 🇦🇪, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
