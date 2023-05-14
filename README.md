@@ -9,14 +9,16 @@
 [![CodersRank Badge](https://img.shields.io/badge/-CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/guibranco)](https://profile.codersrank.io/user/guibranco)
 [![ProfileViews](https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dubai, UAE 🇦🇪. <br />
+💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dublin, Ireland 🇮🇪. <br />
 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
 🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 3+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
 
 🛂 Brazilian (Latin America) and Portuguese (European Union) passports. Work permit in this areas, no sponsorship needed.
 
-🔭 Since May, 2021 working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [QCommerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
+🔭 Currently working in [OUTsurance Ireland](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦 based in Dublin, Ireland 🇮🇪, as a senior backend engineer, wokring with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ and other tools, build the finance services for the Ireland project.
+
+🔭 Two years working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [QCommerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
