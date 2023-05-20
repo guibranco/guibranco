@@ -14,8 +14,6 @@
 
 🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS** / 4+ **AWS** / 3+ **Azure** / 3+ **RabbitMQ** / 3+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search**.
 
-🛂 Brazilian (Latin America) and Portuguese (European Union) passports. Work permit in this areas, no sponsorship needed.
-
 ---
 
 🔭 Currently working in [OUTsurance](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦. Based in Dublin, Ireland 🇮🇪 as a senior backend engineer, working with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ and other tools, building the finance services for the Ireland project.
