@@ -140,7 +140,7 @@ Testing: <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?st
 
 (since January 23, 2013)
 
-[![GuiBranco's GitHub stats](https://github-readme-stats-guibranco.vercel.app/api?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/guibranco)
+[![GuiBranco's GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/guibranco)
 [![GuiBranco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/guibranco)
 
 [![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-green-purple&fire=DD2727)](https://github.com/guibranco)
