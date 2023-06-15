@@ -126,7 +126,7 @@ Agile: <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0
 Testing: <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
 
-## Latest blog posts (most in PT-BR! 🇧🇷)
+## Latest blog posts (most in PT-BR 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
 - [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
