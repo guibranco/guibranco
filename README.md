@@ -150,7 +150,7 @@ Testing: <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?st
 (since April 10, 2015)
 
 <a href="https://wakatime.com/@guistracini">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true" alt="GuiStracini's wakatime stats" />
+    <img src="https://github-readme-stats-guibranco.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true" alt="GuiStracini's wakatime stats" />
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
