@@ -117,6 +117,7 @@ CI: <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=f
 <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" />
 
 CD: <img alt="Argo CD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+<img alt="DAPR" src="https://img.shields.io/badge/-DAPR-0D2192?style=flat-square&logo=dapr&logoColor=white" />
 
 Cloud: <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
