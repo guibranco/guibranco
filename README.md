@@ -12,7 +12,7 @@
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dublin, Ireland 🇮🇪. <br />
 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
-🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 7+ **.NET Framework** / 8+ **Node.JS (JavaScript)** / 4+ **AWS** / 4+ **ReactJS** / 3+ **Azure** / 3+ **RabbitMQ** / 3+ **Apache Kafka** / 10+ **MySQL** / 12+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search** / 2+ **CosmosDB** / 2+ **NextJS** / 5+ **Redis**.
+🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 12+ **.NET Framework** / 8+ **Node.JS (JavaScript/TypeScript)** / 4+ **AWS** / 6+ **ReactJS** / 3+ **Azure** / 4+ **RabbitMQ** / 3+ **Apache Kafka** / 16+ **MySQL** / 13+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search** / 2+ **CosmosDB** / 2+ **NextJS** / 5+ **Redis** / 16+ **PHP** / 1+ **Rust** / 1+ **GoLang**.
 
 ---
 
