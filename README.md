@@ -58,76 +58,26 @@
 
 ## Things I code with
 
-Backend: <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> 
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> 
-<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> 
-<img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" />
-
-JS/TS ecosystem: <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> 
-<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-
-Frontend: <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
-<img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
-
-SQL: <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
-<img alt="MariaDb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> 
-<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> 
-
-noSQL: <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" /> 
-<img alt="Azure CosmosDB" src="https://img.shields.io/badge/-Azure_CosmosDB-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-
-Queue: <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /> <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img alt="AWS SQS" src="https://img.shields.io/badge/-AWS_SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img alt="Azure Service Bus" src="https://img.shields.io/badge/-Azure_Service_Bus-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-
-Package: <img alt="Nuget" src="https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=nuget&logoColor=white" /> 
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
-<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" /> 
-<img alt="Cargo" src="https://img.shields.io/badge/-Cargo-F9F7EC?style=flat-square&logo=rust&logoColor=black" /> 
-
-VCS: <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Subversion" src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white" /> 
-
-Code hosting: <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-
-IaC: <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> 
-
-Containers: <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Swarm" src="https://img.shields.io/badge/-Swarm-FFA633?style=flat-square&logo=swarm&logoColor=white" />
-
-Servers: <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> 
-<img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> 
-<img alt="AWS EC2" src="https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" /> 
-<img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS%20Lambda-F37C20?style=flat-square&logo=awslambda&logoColor=white" /> 
-
-Observability: <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-FA6800?style=flat-square&logo=grafana&logoColor=white" /> <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" /> 
-<img alt="New Relic" src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" />
-<img alt="Graylog" src="https://img.shields.io/badge/-Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" />
-<img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
-
-CI: <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img alt="Team City" src="https://img.shields.io/badge/-Team_City-000000?style=flat-square&logo=teamcity&logoColor=white" />
-<img alt="AppVeyor" src="https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat-square&logo=appveyor&logoColor=white" />
-<img alt="Github Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" /> 
-<img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" />
-
-CD: <img alt="Argo CD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
-<img alt="DAPR" src="https://img.shields.io/badge/-DAPR-0D2192?style=flat-square&logo=dapr&logoColor=white" />
-
-Cloud: <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-
-Agile: <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
-<img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
-
-Testing: <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
+| Skill   | Stack |
+|---------|--------|
+| Backend | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" /> |
+| JS/TS ecosystem | <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> |
+| Frontend | <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" /> |
+| SQL | <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="MariaDb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> | 
+| noSQL | <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" /> <img alt="Azure CosmosDB" src="https://img.shields.io/badge/-Azure_CosmosDB-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> | 
+| Messaging/queue | <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /> <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white" /> <img alt="AWS SQS" src="https://img.shields.io/badge/-AWS_SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Azure Service Bus" src="https://img.shields.io/badge/-Azure_Service_Bus-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> |
+| Package | <img alt="Nuget" src="https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=nuget&logoColor=white" /> <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" /> <img alt="Cargo" src="https://img.shields.io/badge/-Cargo-F9F7EC?style=flat-square&logo=rust&logoColor=black" /> | 
+| VCS | <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Subversion" src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white" /> |
+| Code hosting | <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" /> |
+| IaC | <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> |
+| Containers | <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Swarm" src="https://img.shields.io/badge/-Swarm-FFA633?style=flat-square&logo=swarm&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img alt="Amazon EKS" src="https://img.shields.io/badge/-Amazonn_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" /> |
+| Servers | <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> <img alt="AWS EC2" src="https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" /> <img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS%20Lambda-F37C20?style=flat-square&logo=awslambda&logoColor=white" /> |
+| Observability | <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-FA6800?style=flat-square&logo=grafana&logoColor=white" /> <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" /> <img alt="New Relic" src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" /> <img alt="Graylog" src="https://img.shields.io/badge/-Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" /> <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" /> | 
+| CI | <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img alt="Team City" src="https://img.shields.io/badge/-Team_City-000000?style=flat-square&logo=teamcity&logoColor=white" /> <img alt="AppVeyor" src="https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat-square&logo=appveyor&logoColor=white" /> <img alt="Github Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" /> <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" /> |
+| CD | <img alt="Argo CD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" /> <img alt="DAPR" src="https://img.shields.io/badge/-DAPR-0D2192?style=flat-square&logo=dapr&logoColor=white" /> |
+| Cloud | <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> |
+| Agile | <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |
+| Testing | <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> |
 
 ## Latest blog posts (most in PT-BR 🇧🇷)
 
