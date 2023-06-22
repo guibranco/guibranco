@@ -44,8 +44,8 @@
 
 ## Organizations
 
-| Org | Description |
-| --- | ----------- |
+| Account | Description |
+| ------- | ----------- |
 | [![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) | Main account with stable projects. |
 | [![@GuilhermeStracini](https://img.shields.io/badge/-GuilhermeStracini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeStracini) | POCs, Hello Worlds and learning stuff. |
 | [![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) | API BR project (free apis with Brazilian data). |
