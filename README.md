@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermestracini/)](https://www.linkedin.com/in/guilhermestracini/)
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gui.stracini/)](https://www.instagram.com/gui.stracini/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1890220/guilherme-branco-stracini)]([https://blog.guilhermebranco.com.br](https://stackoverflow.com/users/1890220/guilherme-branco-stracini))
 [![CodersRank Badge](https://img.shields.io/badge/-CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/guibranco)](https://profile.codersrank.io/user/guibranco)
 [![ProfileViews](https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
