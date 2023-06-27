@@ -12,7 +12,43 @@
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dublin, Ireland 🇮🇪. <br />
 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
-🎂 Experience (in years): 12+ **C# .NET** / 6+ **.NET Core** / 12+ **.NET Framework** / 8+ **Node.JS (JavaScript/TypeScript)** / 4+ **AWS** / 6+ **ReactJS** / 3+ **Azure** / 4+ **RabbitMQ** / 3+ **Apache Kafka** / 16+ **MySQL** / 13+ **Microsoft SQL Server** / 3+ **PostgreSQL** / 7+ **Elastic Search** / 2+ **CosmosDB** / 2+ **NextJS** / 6+ **Redis** / 16+ **PHP** / 1+ **Rust** / 1+ **GoLang** / 2+ **Python**.
+<table>
+    <thead>
+        <tr>
+            <td colspan="5" align="center">🎂 Experience (in years)</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>12+ <strong>C# .NET</strong></td>
+            <td>6+ <strong>.NET Core</strong></td>
+            <td>12+ <strong>.NET Framework</strong></td>
+            <td>8+ <strong>Node.JS (JS/TS)</strong></td>
+            <td>16+ <strong>PHP</strong></td>
+        </tr>
+        <tr>
+            <td>6+ <strong>ReactJS</strong></td>
+            <td>3+ <strong>Azure</strong></td>
+            <td>4+ <strong>RabbitMQ</strong></td>
+            <td>3+ <strong>Apache Kafka</strong></td>
+            <td>16+ <strong>MySQL</strong></td>
+        </tr>
+        <tr>
+            <td>13+ <strong>MS SQL Server</strong></td>
+            <td>3+ <strong>PostgreSQL</strong></td>
+            <td>7+ <strong>Elastic Search</strong></td>
+            <td>2+ <strong>CosmosDB</strong></td>
+            <td>2+ <strong>NextJS</strong></td>
+        </tr>
+        <tr>
+            <td>6+ <strong>Redis</strong></td>
+            <td>4+ <strong>AWS</strong></td>
+            <td>1+ <strong>Rust</strong></td>
+            <td>1+ <strong>GoLang</strong></td>
+            <td>2+ <strong>Python</strong></td>
+        </tr>
+    <tbody>
+</table>
 
 ---
 
