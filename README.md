@@ -16,23 +16,23 @@
 
 ---
 
-🔭 Currently working in [OUTsurance](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦. Based in Dublin, Ireland 🇮🇪 as a senior backend engineer, working with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ and other tools, building the finance services for the Ireland project.
+🔭 Currently working in [OUTsurance](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦. Based in Dublin, Ireland 🇮🇪 as a senior backend engineer, working with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ, and other tools, building the finance services for the Ireland project.
 
-🔭 Two years working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE 🇦🇪, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (formerly Finding and Shopping Team - FAST).
+🔭 Two years working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE 🇦🇪, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (once Finding and Shopping Team - FAST).
 
-🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
+🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps, and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
-🔭 In the past, worked with e-commerce, for about 8 years. Major time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
+🔭 In the past, I worked with e-commerce, for about 8 years. Significant time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
 
 🔭 Companies I worked: [OUTsurance](https://www.outsurance.co.za) 🇮🇪, [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
 
 ---
 
-🌱 I’m currently learning Go, Rust and Python, in the meantime, playing with Flutter, React and Kafka.
+🌱 I’m currently learning Go, Rust, and Python, in the meantime, playing with Flutter, React, and Kafka.
 
-👯 I’m looking to collaborate on open source projects with payment gateways, courier platforms and e-commerces platforms.
+👯 I’m looking to collaborate on open-source projects with payment gateways, courier platforms, and e-commerce platforms.
 
-💬 Ask me about: C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, design patterns.
+💬 Ask me about C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, and design patterns.
 
 ---
 
@@ -56,7 +56,7 @@
 ## Things I code with
 
 | Skill   | Technologies |
-|---------|--------|
+|---------|--------------|
 | Backend | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> |
 | JS/TS ecosystem | <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="Vue.js" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />|
 | Frontend | <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" /> |
