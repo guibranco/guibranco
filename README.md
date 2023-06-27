@@ -12,47 +12,9 @@
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dublin, Ireland 🇮🇪. <br />
 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="5" align="center">🎂 Experience (in years)</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>12+ <strong>C# .NET</strong></td>
-            <td>6+ <strong>.NET Core</strong></td>
-            <td>12+ <strong>.NET Framework</strong></td>
-            <td>8+ <strong>Node.JS (JS/TS)</strong></td>
-            <td>16+ <strong>PHP</strong></td>
-        </tr>
-        <tr>
-            <td>6+ <strong>ReactJS</strong></td>
-            <td>3+ <strong>Azure</strong></td>
-            <td>4+ <strong>RabbitMQ</strong></td>
-            <td>3+ <strong>Apache Kafka</strong></td>
-            <td>16+ <strong>MySQL</strong></td>
-        </tr>
-        <tr>
-            <td>13+ <strong>MS SQL Server</strong></td>
-            <td>3+ <strong>PostgreSQL</strong></td>
-            <td>7+ <strong>Elastic Search</strong></td>
-            <td>2+ <strong>CosmosDB</strong></td>
-            <td>2+ <strong>NextJS</strong></td>
-        </tr>
-        <tr>
-            <td>6+ <strong>Redis</strong></td>
-            <td>4+ <strong>AWS</strong></td>
-            <td>1+ <strong>Rust</strong></td>
-            <td>1+ <strong>GoLang</strong></td>
-            <td>2+ <strong>Python</strong></td>
-        </tr>
-    <tbody>
-</table>
-
 ---
 
-🔭 Currently working in [OUTsurance](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦. Based in Dublin, Ireland 🇮🇪 as a senior backend engineer, working with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ, and other tools, building the finance services for the Ireland project.
+🔭 Currently working in [OUTsurance](https://www.outsurance.co.za/) 🇮🇪 an online insurance company from South Africa 🇿🇦. Based in Dublin, Ireland 🇮🇪 as a senior backend engineer, working with C# (.NET 6/7), Docker, Azure DevOps, Cosmos DB, Terraform, NServiceBus, RabbitMQ, and other tools, building the financial services for the Ireland project.
 
 🔭 Two years working in [Talabat](https://talabat.com) 🇦🇪 (part of [Delivery Hero](https://deliveryhero.com) 🇩🇪), which is a [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [MENA](https://en.wikipedia.org/wiki/MENA), based in Dubai, UAE 🇦🇪, as a backend engineer, working with C# (.NET Core/5/6/7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on QCommerce tribe (formerly Grocery tribe) in Shopping Experience (SHOPX) squad (once Finding and Shopping Team - FAST).
 
@@ -116,6 +78,44 @@
 | Agile | <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |
 | Testing | <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> |
 | Code Quality | <img alt="ReSharper" src="https://img.shields.io/badge/-ReSharper-000000?style=flat-square&logo=resharper&logoColor=white" /> <img alt="SonarCloud" src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" /> <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" /> <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" /> <img alt="Snyk" src="https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" /> <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=codacy&logoColor=white" /> <img alt="Codecov" src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white" /> <img alt="Code Climate" src="https://img.shields.io/badge/-Code_Climate-000000?style=flat-square&logo=codeclimate&logoColor=white" /> <img alt="Code Factor" src="https://img.shields.io/badge/-Code_Factor-F44A6A?style=flat-square&logo=codefactor&logoColor=white" /> |
+
+<table>
+    <thead>
+        <tr>
+            <td colspan="5" align="center">🎂 Experience (in years)</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>12+ <strong>C# .NET</strong></td>
+            <td>6+ <strong>.NET Core</strong></td>
+            <td>12+ <strong>.NET Framework</strong></td>
+            <td>8+ <strong>Node.JS (JS/TS)</strong></td>
+            <td>16+ <strong>PHP</strong></td>
+        </tr>
+        <tr>
+            <td>6+ <strong>ReactJS</strong></td>
+            <td>3+ <strong>Azure</strong></td>
+            <td>4+ <strong>RabbitMQ</strong></td>
+            <td>3+ <strong>Apache Kafka</strong></td>
+            <td>16+ <strong>MySQL</strong></td>
+        </tr>
+        <tr>
+            <td>13+ <strong>MS SQL Server</strong></td>
+            <td>3+ <strong>PostgreSQL</strong></td>
+            <td>7+ <strong>Elastic Search</strong></td>
+            <td>2+ <strong>CosmosDB</strong></td>
+            <td>2+ <strong>NextJS</strong></td>
+        </tr>
+        <tr>
+            <td>6+ <strong>Redis</strong></td>
+            <td>4+ <strong>AWS</strong></td>
+            <td>1+ <strong>Rust</strong></td>
+            <td>1+ <strong>GoLang</strong></td>
+            <td>2+ <strong>Python</strong></td>
+        </tr>
+    <tbody>
+</table>
 
 ## Latest blog posts (most in PT-BR 🇧🇷)
 
