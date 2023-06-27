@@ -88,6 +88,10 @@
 | [![@DotNetDevBR](https://img.shields.io/badge/-.NETDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnetdevbr) | Job opportunities for .NET developers in Brazil. 🇧🇷 |
 | [![@PyDevBR](https://img.shields.io/badge/-PyDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydevbr) | Job opportunities for Python developers in Brazil. 🇧🇷 |
 | [![@RustDevBR](https://img.shields.io/badge/-RustDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustdevbr) | Job opportunities for Rust developers in Brazil. 🇧🇷 |
+| [![@backend-ao](https://img.shields.io/badge/-Backend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-ao) | Job opportunities for backend developers in Angola. 🇦🇴 |
+| [![@frontend-ao](https://img.shields.io/badge/-Frontend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontend-ao) | Job opportunities for frontend developers in Angola. 🇦🇴 |
+| [![@backend-pt](https://img.shields.io/badge/-Backend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-pt) | Job opportunities for backend developers in Portugal. 🇵🇹 |
+| [![@frontend-pt](https://img.shields.io/badge/-Frontend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontned-pt) | Job opportunities for frontend developers in Portugal. 🇵🇹 |
 
 ## Things I code with
 
