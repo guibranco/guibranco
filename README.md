@@ -48,7 +48,7 @@
 | ------- | ----------- |
 | [![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) | Main account with stable projects. :octocat: |
 | [![@GuilhermeStracini](https://img.shields.io/badge/-GuilhermeStracini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeStracini) | POCs, Hello Worlds and learning stuff. 🧪 |
-| [![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) | API BR project (free apis with Brazilian data). ⚙️ |
+| [![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) | API BR project (free APIs with Brazilian data). ⚙️ |
 | [![@DotNetDevBR](https://img.shields.io/badge/-.NETDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnetdevbr) | Job opportunities for .NET developers in Brazil. 🇧🇷 |
 | [![@PyDevBR](https://img.shields.io/badge/-PyDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydevbr) | Job opportunities for Python developers in Brazil. 🇧🇷 |
 | [![@RustDevBR](https://img.shields.io/badge/-RustDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustdevbr) | Job opportunities for Rust developers in Brazil. 🇧🇷 |
