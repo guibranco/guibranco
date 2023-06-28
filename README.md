@@ -42,7 +42,7 @@
 
 ---
 
-## Organizations
+## 💻 Organizations
 
 | Account | Description |
 | ------- | ----------- |
@@ -59,7 +59,7 @@
 
 ---
 
-## Things I code with
+## 🧰 Things I code with
 
 | Skill   | Technologies |
 |---------|--------------|
@@ -85,12 +85,9 @@
 
 ---
 
+## 🎂 Experience (in years)
+
 <table>
-    <thead>
-        <tr>
-            <td colspan="6" align="center">🎂 Experience (in years)</td>
-        </tr>
-    </thead>
     <tbody>
         <tr>            
             <td>12+ <strong>C# .NET</strong></td>
@@ -129,7 +126,7 @@
 
 ---
 
-## Latest blog posts (most in PT-BR 🇧🇷)
+## 🗣️ Latest blog posts (most in PT-BR 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
 - [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
@@ -139,7 +136,7 @@
 - [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)
 <!-- BLOG-POST-LIST:END -->
 
-## Github Stats 
+## :octocat: Github Stats 
 
 (since January 23, 2013)
 
@@ -148,7 +145,7 @@
 
 [![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-green-purple&fire=DD2727)](https://github.com/guibranco)
 
-## Wakatime Stats 
+## 🕙 Wakatime Stats 
 
 (since April 10, 2015)
 
