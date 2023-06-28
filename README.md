@@ -22,7 +22,7 @@
 
 🔭 In the past, I worked with e-commerce, for about 8 years. Significant time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
 
-🔭 Companies I worked: [OUTsurance](https://www.outsurance.co.za) 🇮🇪, [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [C&A](https://www.cea.com.br/) 🇧🇷, [FCamara](https://fcamara.com.br/) 🇧🇷, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱 and [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲
+🔭 Companies I worked: [OUTsurance](https://www.outsurance.co.za) 🇮🇪, [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [FCamara](https://fcamara.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱, [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [C&A](https://www.cea.com.br/) 🇧🇷, and [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷.
 
 ---
 
@@ -82,37 +82,41 @@
 <table>
     <thead>
         <tr>
-            <td colspan="5" align="center">🎂 Experience (in years)</td>
+            <td colspan="6" align="center">🎂 Experience (in years)</td>
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr>            
             <td>12+ <strong>C# .NET</strong></td>
-            <td>6+ <strong>.NET Core</strong></td>
             <td>12+ <strong>.NET Framework</strong></td>
+            <td>6+ <strong>.NET Core</strong></td>            
             <td>8+ <strong>Node.JS (JS/TS)</strong></td>
             <td>16+ <strong>PHP</strong></td>
+            <td>16+ <strong>JS (frontend)</strong></td>
         </tr>
         <tr>
-            <td>6+ <strong>ReactJS</strong></td>
-            <td>3+ <strong>Azure</strong></td>
-            <td>4+ <strong>RabbitMQ</strong></td>
-            <td>3+ <strong>Apache Kafka</strong></td>
-            <td>16+ <strong>MySQL</strong></td>
-        </tr>
-        <tr>
-            <td>13+ <strong>MS SQL Server</strong></td>
-            <td>3+ <strong>PostgreSQL</strong></td>
-            <td>7+ <strong>Elastic Search</strong></td>
-            <td>2+ <strong>CosmosDB</strong></td>
-            <td>2+ <strong>NextJS</strong></td>
-        </tr>
-        <tr>
-            <td>6+ <strong>Redis</strong></td>
-            <td>4+ <strong>AWS</strong></td>
             <td>1+ <strong>Rust</strong></td>
             <td>1+ <strong>GoLang</strong></td>
             <td>2+ <strong>Python</strong></td>
+            <td>2+ <strong>NextJS</strong></td>
+            <td>6+ <strong>ReactJS</strong></td>
+            <td>14+ <strong>jQuery</strong></td>
+        </tr>
+        <tr>
+            <td>4+ <strong>RabbitMQ</strong></td>
+            <td>3+ <strong>Apache Kafka</strong></td>
+            <td>16+ <strong>MySQL/MariaDB</strong></td>
+            <td>13+ <strong>MS SQL Server</strong></td>
+            <td>3+ <strong>PostgreSQL</strong></td>
+            <td>3+ <strong>Oracle 11g</strong></td>
+        </tr>
+        <tr>
+            <td>6+ <strong>Redis</strong></td>
+            <td>7+ <strong>Elastic Search</strong></td>
+            <td>2+ <strong>CosmosDB</strong></td>
+            <td>3+ <strong>MongoDB</strong></td>
+            <td>4+ <strong>AWS</strong></td>
+            <td>3+ <strong>Azure</strong></td>           
         </tr>
     <tbody>
 </table>
