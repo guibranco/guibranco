@@ -40,6 +40,8 @@
 
 <img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" alt="Lego Creator collection" />
 
+---
+
 ## Organizations
 
 | Account | Description |
@@ -54,6 +56,8 @@
 | [![@frontend-ao](https://img.shields.io/badge/-Frontend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontend-ao) | Job opportunities for frontend developers in Angola. 🇦🇴 |
 | [![@backend-pt](https://img.shields.io/badge/-Backend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-pt) | Job opportunities for backend developers in Portugal. 🇵🇹 |
 | [![@frontend-pt](https://img.shields.io/badge/-Frontend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontned-pt) | Job opportunities for frontend developers in Portugal. 🇵🇹 |
+
+---
 
 ## Things I code with
 
@@ -78,6 +82,8 @@
 | Agile | <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |
 | Testing | <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> |
 | Code Quality | <img alt="ReSharper" src="https://img.shields.io/badge/-ReSharper-000000?style=flat-square&logo=resharper&logoColor=white" /> <img alt="SonarCloud" src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" /> <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" /> <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" /> <img alt="Snyk" src="https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" /> <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=codacy&logoColor=white" /> <img alt="Codecov" src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white" /> <img alt="Code Climate" src="https://img.shields.io/badge/-Code_Climate-000000?style=flat-square&logo=codeclimate&logoColor=white" /> <img alt="Code Factor" src="https://img.shields.io/badge/-Code_Factor-F44A6A?style=flat-square&logo=codefactor&logoColor=white" /> |
+
+---
 
 <table>
     <thead>
@@ -120,6 +126,8 @@
         </tr>
     <tbody>
 </table>
+
+---
 
 ## Latest blog posts (most in PT-BR 🇧🇷)
 
