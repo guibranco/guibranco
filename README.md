@@ -136,6 +136,8 @@
 - [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ## :octocat: Github Stats 
 
 (since January 23, 2013)
