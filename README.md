@@ -146,6 +146,7 @@
 [![GuiBranco's GitHub stats](https://github-readme-stats-guibranco.vercel.app/api/top-langs?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/guibranco)
 
 [![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-green-purple&fire=DD2727)](https://github.com/guibranco)
+[![GuiBranco's GitHub stats](https://api.githubtrends.io/user/svg/guibranco/repos?time_range=one_year&group=other&theme=dark)](https://github.com/guibranco)
 
 ## 🕙 Wakatime Stats 
 
