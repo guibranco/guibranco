@@ -10,7 +10,7 @@
     {"since":"2008-06-01","tech":"MS SQL Server"},
     {"since":"2016-01-01","tech":"Elastic Search"},
     {"since":"2015-01-01","tech":"Redis"},
-    {"since":"2006-01-01","tech":"ReactJS"},
+    {"since":"2016-01-01","tech":"ReactJS"},
     {"since":"2015-01-01","tech":"AWS"},
     {"since":"2007-01-01","tech":"RabbitMQ"},
     {"since":"2018-11-01","tech":"MongoDB"},
