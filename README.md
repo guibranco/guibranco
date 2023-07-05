@@ -88,7 +88,7 @@
 ## 🎂 Experience (in years)
 
 <!--START_SECTION:data-section-->
-<table width="100%"><tr><td>16+ PHP</td><td>16+ MySQL</td><td>12+ .NET Framework</td><td>12+ C# .NET</td><td>7+ .NET Core</td><td></td></tr></table>
+<table width="100%"><tr><td>17+ ReactJS</td><td>16+ RabbitMQ</td><td>16+ jQuery</td><td>16+ JS (Frontend)</td><td>16+ PHP</td><td>16+ MySQL/MariaDB</td></tr><tr><td>15+ MS SQL Server</td><td>12+ .NET Framework</td><td>12+ C# .NET</td><td>8+ AWS</td><td>8+ Redis</td><td>8+ Node.JS (JS/TS)</td></tr><tr><td>7+ PostgreSQL</td><td>7+ Elastic Search</td><td>7+ .NET Core</td><td>4+ Oracle 11g</td><td>4+ MongoDB</td><td>3+ Rust</td></tr><tr><td>2+ CosmosDB</td><td>2+ Azure</td><td>2+ Apache Kafka</td><td>2+ Python</td><td>1+ NextJS</td><td>1+ Go</td></tr></table>
 <!--END_SECTION:data-section-->
 
 ---
@@ -96,12 +96,11 @@
 ## 🗣️ Latest blog posts (most in PT-BR 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
-- [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
-- [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
-- [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
-- [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)
-- [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)
-<!-- BLOG-POST-LIST:END -->
+ - 💯 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
+ - 🔥 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
+ - 💫 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
+ - 🚀 [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)
+ - 🌮 [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)<!-- BLOG-POST-LIST:END -->
 
 ---
 
