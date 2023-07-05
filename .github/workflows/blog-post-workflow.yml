@@ -3,18 +3,19 @@ name: Latest blog posts
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 1 * * *"
-  
+    - cron: "0 1 * * *"
+
 jobs:
 
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-    
+
     steps:
-    
+
       - uses: actions/checkout@v3
-      
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.guilhermebranco.com.br/feed/"
+          template: "$newline - $emojiKey(💯,🔥,💫,🚀,🌮) [$title]($url)"

@@ -1,0 +1,37 @@
+name: Update experience
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - experience.json
+
+jobs:
+
+  update-readme-with-blog:
+    name: Update this repo's README with my experience
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          cache: "yarn"
+
+      - name: Run script
+        run: |
+          yarn install
+          yarn start
+
+      - name: "Read/Write profiles' data"
+        uses: EddieHubCommunity/gh-actions-html-table-generator@main
+        with:
+          json-file-path: "experience.json"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          columns: 6
+          file-to-use: "README.md"
+          object-field-names: '[ "age", "tech" ]'
+          html-cell: '<td>{{ age }}+ {{ tech }}</td>'

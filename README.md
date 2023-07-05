@@ -86,7 +86,8 @@
 ---
 
 ## 🎂 Experience (in years)
-
+<!--START_SECTION:data-section-->
+<!--END_SECTION:data-section-->
 <table>
     <tbody>
         <tr>            
