@@ -88,7 +88,7 @@
 ## 🎂 Experience (in years)
 
 <!--START_SECTION:data-section-->
-<table width="100%"><tr><td>16+ PHP</td><td>16+ MySQL</td><td>12+ .NET Framework</td><td>12+ C# .NET</td><td>7+ .NET Core</td><td></td></tr></table>
+<table width="100%"><tr><td>17+ ReactJS</td><td>16+ RabbitMQ</td><td>16+ jQuery</td><td>16+ JS (Frontend)</td><td>16+ PHP</td><td>16+ MySQL/MariaDB</td></tr><tr><td>15+ MS SQL Server</td><td>12+ .NET Framework</td><td>12+ C# .NET</td><td>8+ AWS</td><td>8+ Redis</td><td>8+ Node.JS (JS/TS)</td></tr><tr><td>7+ PostgreSQL</td><td>7+ Elastic Search</td><td>7+ .NET Core</td><td>4+ Oracle 11g</td><td>4+ MongoDB</td><td>3+ Rust</td></tr><tr><td>2+ CosmosDB</td><td>2+ Azure</td><td>2+ Apache Kafka</td><td>2+ Python</td><td>1+ NextJS</td><td>1+ Go</td></tr></table>
 <!--END_SECTION:data-section-->
 
 ---
