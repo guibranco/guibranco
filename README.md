@@ -86,44 +86,9 @@
 ---
 
 ## 🎂 Experience (in years)
+
 <!--START_SECTION:data-section-->
 <!--END_SECTION:data-section-->
-<table>
-    <tbody>
-        <tr>            
-            <td>12+ <strong>C# .NET</strong></td>
-            <td>12+ <strong>.NET Framework</strong></td>
-            <td>6+ <strong>.NET Core</strong></td>            
-            <td>8+ <strong>Node.JS (JS/TS)</strong></td>
-            <td>16+ <strong>PHP</strong></td>
-            <td>16+ <strong>JS (frontend)</strong></td>
-        </tr>
-        <tr>
-            <td>1+ <strong>Rust</strong></td>
-            <td>1+ <strong>GoLang</strong></td>
-            <td>2+ <strong>Python</strong></td>
-            <td>2+ <strong>NextJS</strong></td>
-            <td>6+ <strong>ReactJS</strong></td>
-            <td>14+ <strong>jQuery</strong></td>
-        </tr>
-        <tr>
-            <td>4+ <strong>RabbitMQ</strong></td>
-            <td>3+ <strong>Apache Kafka</strong></td>
-            <td>16+ <strong>MySQL/MariaDB</strong></td>
-            <td>13+ <strong>MS SQL Server</strong></td>
-            <td>3+ <strong>PostgreSQL</strong></td>
-            <td>3+ <strong>Oracle 11g</strong></td>
-        </tr>
-        <tr>
-            <td>6+ <strong>Redis</strong></td>
-            <td>7+ <strong>Elastic Search</strong></td>
-            <td>2+ <strong>CosmosDB</strong></td>
-            <td>3+ <strong>MongoDB</strong></td>
-            <td>4+ <strong>AWS</strong></td>
-            <td>3+ <strong>Azure</strong></td>           
-        </tr>
-    <tbody>
-</table>
 
 ---
 
