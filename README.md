@@ -87,6 +87,7 @@
 
 ## 🎂 Experience (in years)
 <!--START_SECTION:data-section-->
+<table width="100%"><tr><td>16+ PHP</td><td>16+ MySQL</td><td>12+ .NET Framework</td><td>12+ C# .NET</td><td>7+ .NET Core</td><td></td></tr></table>
 <!--END_SECTION:data-section-->
 <table>
     <tbody>
