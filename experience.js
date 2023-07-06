@@ -9,7 +9,6 @@ function main() {
         for (const element of data) {
             element.age = calculateAge(element.since).getObject().years;
         }
-        data.sort((a,b) => a.age < b.age ? 1 : -1);
         const result = JSON.stringify(data);
         fs.writeFileSync(fileName, result);
     } catch (err) {
