@@ -38,7 +38,19 @@
 
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
 
-<img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" alt="Lego Creator collection" />
+<img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" width="50%" alt="Lego Creator collection" />
+
+---
+
+## 🗣️ Latest blog posts (most in PT-BR 🇧🇷)
+
+<!-- BLOG-POST-LIST:START -->
+ - 💯 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
+ - 🔥 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
+ - 💫 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
+ - 🚀 [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)
+ - 🌮 [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -60,7 +72,7 @@
 ---
 
 ## 🧰 Things I code with
-
+-
 | Skill   | Technologies |
 |---------|--------------|
 | Backend | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> |
@@ -93,17 +105,6 @@
 
 ---
 
-## 🗣️ Latest blog posts (most in PT-BR 🇧🇷)
-
-<!-- BLOG-POST-LIST:START -->
- - 💯 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
- - 🔥 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
- - 💫 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
- - 🚀 [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)
- - 🌮 [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)<!-- BLOG-POST-LIST:END -->
-
----
-
 ## :octocat: Github Stats 
 
 (since January 23, 2013)
@@ -112,6 +113,7 @@
 [![GuiBranco's GitHub stats](https://github-readme-stats-guibranco.vercel.app/api/top-langs?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/guibranco)
 
 [![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-green-purple&fire=DD2727)](https://github.com/guibranco)
+
 [![GuiBranco's GitHub stats](https://api.githubtrends.io/user/svg/guibranco/repos?time_range=one_year&group=other&theme=dark)](https://github.com/guibranco)
 
 ## 🕙 Wakatime Stats 
