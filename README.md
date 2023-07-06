@@ -72,7 +72,7 @@
 ---
 
 ## 🧰 Things I code with
--
+
 | Skill   | Technologies |
 |---------|--------------|
 | Backend | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> |
