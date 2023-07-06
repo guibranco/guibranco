@@ -35,7 +35,7 @@ jobs:
         with:
           json-file-path: "experience.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          columns: 6
+          columns: 5
           file-to-use: "README.md"
           object-field-names: '[ "age", "tech" ]'
           html-cell: '<td>{{ age }}+ {{ tech }}</td>'

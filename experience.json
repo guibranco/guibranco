@@ -4,7 +4,6 @@
     {"since":"2016-01-01","tech":".NET Core"},
     {"since":"2007-01-01","tech":"PHP"},
     {"since":"2015-01-01","tech":"Node.JS (JS/TS)"},
-    {"since":"2007-01-01","tech":"JS (Frontend)"},
     {"since":"2008-06-01","tech":"MS SQL Server"},   
     {"since":"2007-01-01","tech":"MySQL/MariaDB"},    
     {"since":"2018-11-01","tech":"MongoDB"},
@@ -17,10 +16,12 @@
     {"since":"2020-11-01","tech":"Apache Kafka"},
     {"since":"2015-01-01","tech":"AWS"},
     {"since":"2021-01-01","tech":"Azure"},
+    {"since":"2007-01-01","tech":"JS (Frontend)"},
     {"since":"2007-06-01","tech":"jQuery"},
     {"since":"2016-01-01","tech":"ReactJS"},
     {"since":"2022-01-01","tech":"NextJS"},
     {"since":"2020-11-01","tech":"Python"},
     {"since":"2020-01-01","tech":"Rust"},
-    {"since":"2022-06-01","tech":"Go"}
+    {"since":"2022-06-01","tech":"Go"},
+    {"since":"2021-05-01","tech":"Terraform"}
 ]
