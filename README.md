@@ -32,17 +32,15 @@
 
 💬 Ask me about C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, and design patterns.
 
----
-
-📫 How to reach me: guilherme@guilhermebranco.com.br
-
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
 
 <img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" width="50%" alt="Lego Creator collection" />
 
 ---
 
-## 🗣️ Latest blog posts (most in PT-BR 🇧🇷)
+## 🗣️ Latest blog posts
+
+(most in PT-BR 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
