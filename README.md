@@ -99,7 +99,7 @@
 (in years)
 
 <!--START_SECTION:data-section-->
-<table width="100%"><tr><td>12+ C# .NET</td><td>12+ .NET Framework</td><td>7+ .NET Core</td><td>8+ Node.JS (JS/TS)</td><td>16+ PHP</td></tr><tr><td>15+ MS SQL Server</td><td>16+ MySQL/MariaDB</td><td>7+ PostgreSQL</td><td>4+ MongoDB</td><td>2+ CosmosDB</td></tr><tr><td>7+ Elastic Search</td><td>8+ Redis</td><td>6+ RabbitMQ</td><td>2+ Apache Kafka</td><td>8+ AWS</td></tr><tr><td>2+ Azure</td><td>4+ Oracle 11g</td><td>16+ JS (Frontend)</td><td>16+ jQuery</td><td>7+ ReactJS</td></tr><tr><td>2+ Terraform</td><td>1+ NextJS</td><td>2+ Python</td><td>3+ Rust</td><td>1+ Go</td></tr></table>
+<table width="100%"><tr><td>12+ C# .NET</td><td>12+ .NET Framework</td><td>7+ .NET Core</td><td>8+ Node.JS (JS/TS)</td><td>16+ PHP</td></tr><tr><td>15+ MS SQL Server</td><td>16+ MySQL/MariaDB</td><td>7+ PostgreSQL</td><td>4+ MongoDB</td><td>2+ CosmosDB</td></tr><tr><td>7+ Elastic Search</td><td>8+ Redis</td><td>6+ RabbitMQ</td><td>2+ Apache Kafka</td><td>8+ AWS</td></tr><tr><td>2+ Azure</td><td>4+ Oracle 11g</td><td>16+ JS (Frontend)</td><td>16+ jQuery</td><td>7+ ReactJS</td></tr><tr><td>2+ Terraform</td><td>1+ NextJS</td><td>2+ Python</td><td>3+ Rust</td><td>1+  Go</td></tr></table>
 <!--END_SECTION:data-section-->
 
 ---
