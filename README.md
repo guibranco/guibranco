@@ -20,15 +20,15 @@
 
 🔭 Over one year and a half, working in [BS2 Bank](https://www.bancobs2.com.br) 🇧🇷, as a backend engineer, using C# (.NET Core), Docker, RabbitMQ, Azure DevOps, and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en). I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
 
-🔭 In the past, I worked with e-commerce, for about 8 years. Significant time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
+🔭 In the past, I worked with e-commerce for about eight years. Significant time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
 
 🔭 Companies I worked: [OUTsurance](https://www.outsurance.co.za) 🇮🇪, [Talabat](https://talabat.com) 🇦🇪, [Syndigo](https://syndigo.com/) 🇺🇲, [FCamara](https://fcamara.com.br/) 🇧🇷, [The Bridge Social](https://thebridge.social/) 🇨🇱, [Grace Kennedy Group](https://gracekennedy.com/) 🇯🇲, [Farfetch](https://farfetch.pt/) 🇵🇹, [Banco BS2](https://www.bancobs2.com.br/) 🇧🇷, [K2 Partnering Solutions](https://k2partnering.com/) 🇧🇷, [C&A](https://www.cea.com.br/) 🇧🇷, and [Inovação Media Brasil](https://www.editorainovacao.com.br/) 🇧🇷.
 
 ---
 
-🌱 I’m currently learning Go, Rust, and Python, in the meantime, playing with Flutter, React, and Kafka.
+🌱 Currently learning Go, Rust, and Python. Meantime playing with Flutter, React, and Kafka.
 
-👯 I’m looking to collaborate on open-source projects with payment gateways, courier platforms, and e-commerce platforms.
+👯 Looking to collaborate on open-source projects with payment gateways, courier platforms, and e-commerce platforms.
 
 💬 Ask me about C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, and design patterns.
 
@@ -99,7 +99,7 @@
 (in years)
 
 <!--START_SECTION:data-section-->
-<table width="100%"><tr><td>12+ C# .NET</td><td>12+ .NET Framework</td><td>7+ .NET Core</td><td>8+ Node.JS (JS/TS)</td><td>16+ PHP</td></tr><tr><td>15+ MS SQL Server</td><td>16+ MySQL/MariaDB</td><td>7+ PostgreSQL</td><td>4+ MongoDB</td><td>2+ CosmosDB</td></tr><tr><td>7+ Elastic Search</td><td>8+ Redis</td><td>6+ RabbitMQ</td><td>2+ Apache Kafka</td><td>8+ AWS</td></tr><tr><td>2+ Azure</td><td>4+ Oracle 11g</td><td>16+ JS (Frontend)</td><td>16+ jQuery</td><td>7+ ReactJS</td></tr><tr><td>2+ Terraform</td><td>3+ Rust</td><td>2+ Python</td><td>1+  Go</td><td>1+ NextJS</td></tr></table>
+<table width="100%"><tr><td>12+ C# .NET</td><td>12+ .NET Framework</td><td>7+ .NET Core</td><td>8+ Node.JS (JS/TS)</td><td>16+ PHP</td></tr><tr><td>15+ MS SQL Server</td><td>16+ MySQL/MariaDB</td><td>7+ PostgreSQL</td><td>4+ MongoDB</td><td>2+ CosmosDB</td></tr><tr><td>7+ Elastic Search</td><td>8+ Redis</td><td>6+ RabbitMQ</td><td>2+ Apache Kafka</td><td>8+ AWS</td></tr><tr><td>2+ Azure</td><td>4+ Oracle 11g</td><td>16+ JS (Frontend)</td><td>16+ jQuery</td><td>7+ ReactJS</td></tr><tr><td>2+ Terraform</td><td>3+ Rust</td><td>2+ Python</td><td>1+ Go</td><td>1+ NextJS</td></tr></table>
 <!--END_SECTION:data-section-->
 
 ---
