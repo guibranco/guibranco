@@ -28,9 +28,9 @@
 
 🌱 Currently learning Go, Rust, and Python. Meantime playing with Flutter, React, and Kafka.
 
-👯 Looking to collaborate on open-source projects with payment gateways, courier platforms, and e-commerce platforms.
+👯 Looking to collaborate on open-source projects with payment gateways, courier platforms, and e-commerce/q-commerce platforms.
 
-💬 Ask me about C#, JS (also NodeJS), PHP, DDD, SOLID, software architecture, system design, and design patterns.
+💬 Ask me about C#, JS/TS (frontend and backend), NodeJS, PHP, DDD, SOLID, software architecture, system design, and design patterns.
 
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
 
