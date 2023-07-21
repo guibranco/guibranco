@@ -43,11 +43,11 @@
 (most in PT-BR 🇧🇷)
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
- - 🔥 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
- - 💫 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
- - 🚀 [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)
- - 🌮 [Testes automatizados – Os diferentes tipos de testes de software](https://blog.guilhermebranco.com.br/testes-automatizados-os-diferentes-tipos-de-testes-de-software/?utm_source=rss&utm_medium=rss&utm_campaign=testes-automatizados-os-diferentes-tipos-de-testes-de-software)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Top blogs that power up my learning journey](https://blog.guilhermebranco.com.br/top-blogs-that-power-up-my-learning-journey/?utm_source=rss&utm_medium=rss&utm_campaign=top-blogs-that-power-up-my-learning-journey)
+ - 🔥 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/?utm_source=rss&utm_medium=rss&utm_campaign=onde-encontrar-vagas-ti)
+ - 💫 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/?utm_source=rss&utm_medium=rss&utm_campaign=my-lego-creator-collection)
+ - 🚀 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/?utm_source=rss&utm_medium=rss&utm_campaign=como-e-o-mercado-de-trabalho-para-desenvolvedores-ti)
+ - 🌮 [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/?utm_source=rss&utm_medium=rss&utm_campaign=tem-idade-para-comecar-a-aprender-programacao)<!-- BLOG-POST-LIST:END -->
 
 ---
 
