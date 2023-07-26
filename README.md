@@ -26,6 +26,11 @@
 
 ---
 
+<details>
+  <summary>📚 Hobbies </summary>
+
+<br />
+
 🌱 Currently learning Go, Rust, and Python. Meantime playing with Flutter, React, and Kafka.
 
 👯 Looking to collaborate on open-source projects with payment gateways, courier platforms, and e-commerce/q-commerce platforms.
@@ -38,7 +43,10 @@
 
 ---
 
-## 🗣️ Latest blog posts
+</details>
+
+<details>
+ <summary>🗣️ Latest blog posts</summary>
 
 (most in PT-BR 🇧🇷)
 
@@ -51,7 +59,10 @@
 
 ---
 
-## 💻 Organizations
+</details>
+
+<details>
+ <summary>💻 Organizations</summary>
 
 | Account | Description |
 | ------- | ----------- |
@@ -68,7 +79,10 @@
 
 ---
 
-## 🧰 Things I code with
+</details>
+
+<details>
+  <summary>🧰 Things I code with</summary>
 
 | Skill   | Technologies |
 |---------|--------------|
@@ -92,9 +106,13 @@
 | Testing | <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> |
 | Code Quality | <img alt="ReSharper" src="https://img.shields.io/badge/-ReSharper-000000?style=flat-square&logo=resharper&logoColor=white" /> <img alt="SonarCloud" src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" /> <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" /> <img alt="Snyk" src="https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" /> <img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=codacy&logoColor=white" /> <img alt="Codecov" src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white" /> <img alt="Code Climate" src="https://img.shields.io/badge/-Code_Climate-000000?style=flat-square&logo=codeclimate&logoColor=white" /> <img alt="Code Factor" src="https://img.shields.io/badge/-Code_Factor-F44A6A?style=flat-square&logo=codefactor&logoColor=white" /> |
 
+
 ---
 
-## 🎂 Experience
+</details>
+
+<details>
+ <summary>🎂 Experience</summary>
 
 (in years)
 
@@ -104,7 +122,10 @@
 
 ---
 
-## :octocat: Github Stats 
+</details>
+
+<details>
+ <summary>:octocat: Github Stats</summary> 
 
 (since January 23, 2013)
 
@@ -114,12 +135,19 @@
 [![GuiBranco's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=guibranco&theme=github-green-purple&fire=DD2727)](https://github-readme-streak-stats.herokuapp.com/demo/)
 [![GuiBranco's GitHub stats](https://api.githubtrends.io/user/svg/guibranco/repos?time_range=one_year&group=private&theme=dark&include_private=true&loc_metric=changed)](https://github.com/avgupta456/github-trends)
 
-## 🕙 Wakatime Stats 
+---
+
+</details>
+
+<details>
+ <summary>🕐 Wakatime Stats</summary>
 
 (since April 10, 2015)
 
 <a href="https://wakatime.com/@guistracini">
     <img src="https://github-readme-stats-guibranco.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true&hide_border=true" alt="GuiStracini's wakatime stats" />
 </a>
+
+</details>
 
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
