@@ -46,7 +46,9 @@
 </details>
 
 <details>
- <summary>🗣️ Latest blog posts (most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)</summary>
+ <summary>🗣️ Latest blog posts</summary>
+  
+(most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 [Top blogs that power up my learning journey](https://blog.guilhermebranco.com.br/top-blogs-that-power-up-my-learning-journey/?utm_source=rss&utm_medium=rss&utm_campaign=top-blogs-that-power-up-my-learning-journey)
@@ -110,7 +112,9 @@
 </details>
 
 <details>
- <summary>🎂 Experience (in years)</summary>
+ <summary>🎂 Experience</summary>
+
+(in years)
 
 <!--START_SECTION:data-section-->
 <table width="100%"><tr><td>12+ C# .NET</td><td>12+ .NET Framework</td><td>7+ .NET Core</td><td>8+ Node.JS (JS/TS)</td><td>16+ PHP</td></tr><tr><td>15+ MS SQL Server</td><td>16+ MySQL/MariaDB</td><td>7+ PostgreSQL</td><td>4+ MongoDB</td><td>2+ CosmosDB</td></tr><tr><td>7+ Elastic Search</td><td>8+ Redis</td><td>6+ RabbitMQ</td><td>2+ Apache Kafka</td><td>8+ AWS</td></tr><tr><td>2+ Azure</td><td>4+ Oracle 11g</td><td>16+ JS (Frontend)</td><td>16+ jQuery</td><td>7+ ReactJS</td></tr><tr><td>2+ Terraform</td><td>3+ Rust</td><td>2+ Python</td><td>1+ Go</td><td>1+ NextJS</td></tr></table>
@@ -121,7 +125,9 @@
 </details>
 
 <details>
- <summary>:octocat: Github Stats (since January 23, 2013)</summary> 
+ <summary>:octocat: Github Stats</summary> 
+
+(since January 23, 2013)
 
 [![GuiBranco's GitHub stats](https://github-readme-stats-guibranco.vercel.app/api?username=guibranco&line_height=28&card_width=490&hide_title=true&hide_border=true&show_icons=true&theme=chartreuse-dark&icon_color=7FFF00&include_all_commits=true&count_private=true&show=reviews,discussions_started&count_private=true)](https://github.com/guibranco/github-readme-stats)
 [![GuiBranco's GitHub stats](https://github-readme-stats-guibranco.vercel.app/api/top-langs?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=12)](https://github.com/guibranco/github-readme-stats)
@@ -134,7 +140,9 @@
 </details>
 
 <details>
- <summary>🕐 Wakatime Stats (since April 10, 2015)</summary>
+ <summary>🕐 Wakatime Stats</summary>
+
+(since April 10, 2015)
 
 <a href="https://wakatime.com/@guistracini">
     <img src="https://github-readme-stats-guibranco.vercel.app/api/wakatime?username=guistracini&layout=compact&theme=dark&range=all_time&hide_title=true&hide_border=true" alt="GuiStracini's wakatime stats" />
