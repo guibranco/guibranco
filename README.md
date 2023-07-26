@@ -27,7 +27,7 @@
 ---
 
 <details>
-  <summary>📚 Hobbies </summary>
+  <summary>ferris_wheel Hobbies </summary>
 
 <br />
 
