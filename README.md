@@ -27,7 +27,7 @@
 ---
 
 <details>
-  <summary>ferris_wheel Hobbies </summary>
+  <summary>🎡 Hobbies </summary>
 
 <br />
 
