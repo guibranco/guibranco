@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 [Top blogs that power up my learning journey](https://blog.guilhermebranco.com.br/top-blogs-that-power-up-my-learning-journey/)
- - 🔥 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/)
- - 💫 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/)
- - 🚀 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/)
- - 🌮 [Tem idade para começar a aprender programação ?](https://blog.guilhermebranco.com.br/tem-idade-para-comecar-a-aprender-programacao/)<!-- BLOG-POST-LIST:END -->
+ - 🔥 [Using GitHub Actions to create a .NET Framework pipeline. Build, test, and deploy!](https://blog.guilhermebranco.com.br/using-github-actions-to-create-a-net-framework-pipeline-build-test-and-deploy/)
+ - 💫 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/)
+ - 🚀 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/)
+ - 🌮 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
