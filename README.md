@@ -56,11 +56,11 @@
 (most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Using GitHub Actions to create a .NET Framework pipeline. Build, test, and deploy!](https://blog.guilhermebranco.com.br/using-github-actions-to-create-a-net-framework-pipeline-build-test-and-deploy/)
- - 🔥 [Top blogs that power up my learning journey](https://blog.guilhermebranco.com.br/top-blogs-that-power-up-my-learning-journey/)
- - 💫 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/)
- - 🚀 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/)
- - 🌮 [Como é o mercado de trabalho para desenvolvedores &lpar;TI&rpar;](https://blog.guilhermebranco.com.br/como-e-o-mercado-de-trabalho-para-desenvolvedores-ti/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Qual linguagem de programação devo escolher?](https://blog.guilhermebranco.com.br/qual-linguagem-de-programacao-devo-escolher/)
+ - 🔥 [Using GitHub Actions to create a .NET Framework pipeline. Build, test, and deploy!](https://blog.guilhermebranco.com.br/using-github-actions-to-create-a-net-framework-pipeline-build-test-and-deploy/)
+ - 💫 [Top blogs that power up my learning journey](https://blog.guilhermebranco.com.br/top-blogs-that-power-up-my-learning-journey/)
+ - 🚀 [Onde encontrar vagas – TI](https://blog.guilhermebranco.com.br/onde-encontrar-vagas-ti/)
+ - 🌮 [My LEGO Creator collection](https://blog.guilhermebranco.com.br/my-lego-creator-collection/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
