@@ -124,7 +124,7 @@
 (in years)
 
 <!--START_SECTION:experience-section-->
-<table width="100%"><tr><td>undefined+ C# .NET</td><td>undefined+ .NET Framework</td><td>undefined+ .NET Core</td><td>undefined+ Node.JS (JS/TS)</td><td>undefined+ PHP</td></tr><tr><td>undefined+ MS SQL Server</td><td>undefined+ MySQL/MariaDB</td><td>undefined+ PostgreSQL</td><td>undefined+ MongoDB</td><td>undefined+ CosmosDB</td></tr><tr><td>undefined+ Elastic Search</td><td>undefined+ Redis</td><td>undefined+ RabbitMQ</td><td>undefined+ Apache Kafka</td><td>undefined+ AWS</td></tr><tr><td>undefined+ Azure</td><td>undefined+ Oracle 11g</td><td>undefined+ JS (Frontend)</td><td>undefined+ jQuery</td><td>undefined+ ReactJS</td></tr><tr><td>undefined+ Terraform</td><td>undefined+ Rust</td><td>undefined+ Python</td><td>undefined+ Go</td><td>undefined+ NextJS</td></tr></table>
+<table width="100%"><tr><td>12+ C# .NET</td><td>12+ .NET Framework</td><td>7+ .NET Core</td><td>8+ Node.JS (JS/TS)</td><td>16+ PHP</td></tr><tr><td>15+ MS SQL Server</td><td>16+ MySQL/MariaDB</td><td>7+ PostgreSQL</td><td>4+ MongoDB</td><td>2+ CosmosDB</td></tr><tr><td>7+ Elastic Search</td><td>8+ Redis</td><td>6+ RabbitMQ</td><td>2+ Apache Kafka</td><td>8+ AWS</td></tr><tr><td>2+ Azure</td><td>4+ Oracle 11g</td><td>16+ JS (Frontend)</td><td>16+ jQuery</td><td>7+ ReactJS</td></tr><tr><td>2+ Terraform</td><td>3+ Rust</td><td>2+ Python</td><td>1+ Go</td><td>1+ NextJS</td></tr></table>
 <!--END_SECTION:experience-section-->
 
 ---
