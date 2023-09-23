@@ -35,7 +35,7 @@ jobs:
       - name: "Read/Write profiles' data"
         uses: guibranco/gh-actions-html-table-generator-fork@main
         with:
-          json-file-path: "experience.json"
+          json-file-path: ".github/automations/experience.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           columns: 5
           file-to-use: "README.md"
