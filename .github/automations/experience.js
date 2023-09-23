@@ -1,6 +1,6 @@
 const fs = require('fs');
 const calculateAge = require('calculate-age').default
-const fileName = 'experience.json';
+const fileName = '.github/automations/experience.json';
 
 function main() {
     try {
