@@ -5,9 +5,11 @@ on:
   schedule:
     - cron: '30 0 1 * *'
   push:
+    branches:
+      - main
     paths:
-      - experience.json
-      - experience.js
+      - .github/automations/experience.json
+      - .github/automations/experience.js
       - .github/workflows/update-experience.yml
 
 jobs:
@@ -31,11 +33,12 @@ jobs:
           yarn start
 
       - name: "Read/Write profiles' data"
-        uses: EddieHubCommunity/gh-actions-html-table-generator@main
+        uses: guibranco/gh-actions-html-table-generator-fork@main
         with:
           json-file-path: "experience.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           columns: 5
           file-to-use: "README.md"
+          section-name: "experience-section"
           object-field-names: '[ "age", "tech" ]'
           html-cell: '<td>{{ age }}+ {{ tech }}</td>'
