@@ -30,7 +30,7 @@ jobs:
       - name: Run script
         run: |
           yarn install
-          yarn start
+          yarn start-experience
 
       - name: "Read/Write profiles' data"
         uses: guibranco/gh-actions-html-table-generator-fork@main

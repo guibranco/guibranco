@@ -2,13 +2,13 @@
   "name": "guibranco",
   "version": "1.0.0",
   "description": "GuiBranco README repository",
-  "main": "experience.js",
+  "main": ".github/automations/index.js",
   "repository": "git@github.com:guibranco/guibranco.git",
   "author": "Guilherme Branco Stracini <guilherme@guilhermebranco.com.br>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node experience.js"
+    "start-experience": "node .github/automations/experience.js"
   },
   "dependencies": {
     "calculate-age": "^1.0.0"
