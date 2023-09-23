@@ -41,4 +41,4 @@ jobs:
           file-to-use: "README.md"
           section-name: "experience-section"
           object-field-names: '[ "age", "tech" ]'
-          html-cell: '<td>{{ age }}+ {{ tech }}</td>'
+          html-cell: '<td><b>{{ age }}+</b> {{ tech }}</td>'
