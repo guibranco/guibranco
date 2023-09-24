@@ -1,0 +1,33 @@
+name: Update organizations
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/automations/organizations.json
+      - .github/automations/organizations.js
+      - .github/workflows/update-organizations.yml
+
+jobs:
+
+  update-readme-with-blog:
+    name: Update this repo's README with my organizations
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          cache: "yarn"
+
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          yarn install
+          yarn start-organizations
