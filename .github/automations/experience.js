@@ -23,7 +23,7 @@ async function main() {
         const data = fs.readFileSync(fileName, 'utf8');
         const json = JSON.parse(data);
         const rows = chunk(json, columns).map((row) => generateRow(row));
-        const html = `<table width="100%"><thead><th colspan="5">Experience</th></thead><tbody>${rows.join('')}</tbody></table>`;
+        const html = `<table width="100%"><thead><th colspan="5">Experience (in years)</th></thead><tbody>${rows.join('')}</tbody></table>`;
 
         await ReadmeBox.updateSection(html, {
             owner: process.env.GITHUB_REPOSITORY.split('/')[0],
