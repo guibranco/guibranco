@@ -31,14 +31,3 @@ jobs:
         run: |
           yarn install
           yarn start-experience
-
-      - name: "Read/Write profiles' data"
-        uses: guibranco/gh-actions-html-table-generator-fork@main
-        with:
-          json-file-path: ".github/automations/experience.json"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          columns: 5
-          file-to-use: "README.md"
-          section-name: "experience-section"
-          object-field-names: '[ "age", "tech" ]'
-          html-cell: '<td><b>{{ age }}+</b> {{ tech }}</td>'

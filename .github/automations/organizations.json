@@ -1,0 +1,50 @@
+[
+    {
+        "account": "GuiBranco",
+        "description": ":octocat: Main account with stable projects."
+    },
+    {
+        "account": "GuilhermeStracini",
+        "description": "🧪 POCs, Hello Worlds and learning stuff."
+    },
+    {
+        "account": "ApiBR",
+        "description": "⚙️ API BR project (free APIs with Brazilian data)."
+    },
+    {
+        "account": "DotNetDevBR",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg\" width=\"16\" alt=\"Brazil flag\" /> Job opportunities for .NET developers in Brazil."
+    },
+    {
+        "account": "NodeJSDevBR",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg\" width=\"16\" alt=\"Brazil flag\" /> Job opportunities for Node.JS developers in Brazil."
+    },
+    {
+        "account": "PyDevBR",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg\" width=\"16\" alt=\"Brazil flag\" /> Job opportunities for Python developers in Brazil."
+    },
+    {
+        "account": "RubyDevBR",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg\" width=\"16\" alt=\"Brazil flag\" /> Job opportunities for Ruby developers in Brazil."
+    },
+    {
+        "account": "RustDevBR",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg\" width=\"16\" alt=\"Brazil flag\" /> Job opportunities for Rust developers in Brazil."
+    },
+    {
+        "account": "backend-ao",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ao.svg\" width=\"16\" alt=\"Angola flag\" /> Job opportunities for backend developers in Angola."
+    },
+    {
+        "account": "frontend-ao",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ao.svg\" width=\"16\" alt=\"Angola flag\" /> Job opportunities for frontend developers in Angola."
+    },
+    {
+        "account": "backend-pt",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg\" width=\"16\" alt=\"Portugal flag\" /> Job opportunities for backend developers in Portugal."
+    },
+    {
+        "account": "frontend-pt",
+        "description": "<img src=\"https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg\" width=\"16\" alt=\"Portugal flag\" /> Job opportunities for frontend developers in Portugal."
+    }
+]
