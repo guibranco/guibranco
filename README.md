@@ -69,7 +69,7 @@
 <details>
  <summary>💻 Organizations</summary>
 
-<!--START_SECTION:experience-section-->
+<!--START_SECTION:organizations-section-->
 | Account | Description |
 | ------- | ----------- |
 | [![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) | :octocat: Main account with stable projects. |
@@ -84,7 +84,7 @@
 | [![@frontend-ao](https://img.shields.io/badge/-Frontend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontend-ao) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ao.svg" width="16" alt="Angola flag" /> Job opportunities for frontend developers in Angola. |
 | [![@backend-pt](https://img.shields.io/badge/-Backend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-pt) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> Job opportunities for backend developers in Portugal. |
 | [![@frontend-pt](https://img.shields.io/badge/-Frontend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontned-pt) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> Job opportunities for frontend developers in Portugal. |
-<!--END_SECTION:experience-section-->
+<!--END_SECTION:organizations-section-->
 
 ---
 
