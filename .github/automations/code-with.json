@@ -45,7 +45,7 @@
   },
   {
     "skill": "(Web) Servers",
-    "technologies": [ "Apache", "NGINX", "AWS EC2", "AWS Lambda", "Azure Container Apps", ]
+    "technologies": [ "Apache", "NGINX", "AWS EC2", "AWS Lambda", "Azure Container Apps" ]
   },
   {
     "skill": "Observability (O11Y)",
