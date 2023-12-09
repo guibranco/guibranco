@@ -1,0 +1,78 @@
+[
+  {
+    "skill": "Backend",
+    "technologies": [ "C Sharp", ".NET", "PHP", "Rust", "NodeJS", "Deno", "Python", "Go" ]
+  },
+  {
+    "skill": "JS/TS ecosystem",
+    "technologies": [ "Javascript", "Typescript", "React", "Angular", "NextJS", "VueJS" ]
+  },
+  {
+    "skill": "Frontend",
+    "technologies": [ "HTML", "CSS", "Bootstrap", "Bulma" ]
+  },
+  {
+    "skill": "SQL",
+    "technologies": [ "SQL Server", "MySQL", "MariaDB", "PostgreSQL", "Oracle" ]
+  },
+  {
+    "skill": "noSQL",
+    "technologies": [ "Redis", "Elastic Search", "MongoDB", "Cassandra", "Azure CosmosDB", "Apache SOLR" ]
+  },
+  {
+    "skill": "Queue / Messaging",
+    "technologies": [ "RabbitMQ", "Apache Kafka", "AWS SQS", "Azure Service Bus" ]
+  },
+  {
+    "skill": "Package Manager",
+    "technologies": [ "NuGet", "NPM", "YARN", "Cargo", "PyPI", "Packagist", "Composer" ]
+  },
+  {
+    "skill": "Version Control System (VCS)",
+    "technologies": [ "GIT", "SubVersion" ]
+  },
+  {
+    "skill": "Code hosting",
+    "technologies": [ "GitHub", "GitLab", "BitBucket", "Azure DevOps" ]
+  },
+  {
+    "skill": "Infrastructure as Code (IaC)",
+    "technologies": [ "Terraform" ]
+  },
+  {
+    "skill": "Containers",
+    "technologies": [ "Docker", "Swarm", "Kubernetes", "AWS EKS", "Portainer", "Azure AKS" ]
+  },
+  {
+    "skill": "(Web) Servers",
+    "technologies": [ "Apache", "NGINX", "AWS EC2", "AWS Lambda", "Azure Container Apps", ]
+  },
+  {
+    "skill": "Observability (O11Y)",
+    "technologies": [ "Grafana", "Kibana", "New Relic", "Graylog", "Datadog", "AWS CloudWatch", "Application Insights", "SEQ" ]
+  },
+  {
+    "skill": "Continuous Integration (CI)",
+    "technologies": [ "GitHub Actions", "AppVeyor", "CircleCI", "Azure Pipelines", "TeamCity", "Jenkins" ]
+  },
+  {
+    "skill": "Continuous Deployment (CD)",
+    "technologies": [ "ArgoCD", "Istio", "DAPR", "Vault" ]
+  },
+  {
+    "skill": "Cloud",
+    "technologies": [ "AWS", "Azure", "Heroku", "Vercel", "GoDaddy", "Hetzner", "Digital Ocean", "OVH" ]
+  },
+  {
+    "skill": "Agile",
+    "technologies": [ "Jira", "Azure DevOps", "Trello", "Confluence", "RunRun.it" ]
+  },
+  {
+    "skill": "Testing",
+    "technologies": [ "Swagger", "Postman", "Insomnia", "Playwright", "Selenium", "Puppeteer", "Stryker" ]
+  },
+  {
+    "skill": "Code Quality",
+    "technologies": [ "ReSharper", "SonarCloud", "SonarLint", "Snyk", "Codacy", "Codecov", "Code Climate", "Code Factor", "DependaBot" ]
+  }  
+]
