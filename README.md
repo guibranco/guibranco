@@ -57,11 +57,11 @@
 (most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
- - 🔥 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
- - 💫 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)
- - 🚀 [Dev Essentials – Software and Tools](https://blog.guilhermebranco.com.br/dev-essentials-software-and-tools/)
- - 🌮 [Qual linguagem de programação devo escolher?](https://blog.guilhermebranco.com.br/qual-linguagem-de-programacao-devo-escolher/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
+ - 🔥 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
+ - 💫 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
+ - 🚀 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)
+ - 🌮 [Dev Essentials – Software and Tools](https://blog.guilhermebranco.com.br/dev-essentials-software-and-tools/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
