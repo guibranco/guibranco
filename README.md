@@ -32,6 +32,19 @@
 
 ---
 
+## 🗣️ Latest blog posts
+  
+(most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)
+
+<!-- BLOG-POST-LIST:START -->
+ - 💯 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
+ - 🔥 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
+ - 💫 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
+ - 🚀 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)
+ - 🌮 [Dev Essentials – Software and Tools](https://blog.guilhermebranco.com.br/dev-essentials-software-and-tools/)<!-- BLOG-POST-LIST:END -->
+
+---
+
 <details>
   <summary>🎡 Hobbies </summary>
 
@@ -46,22 +59,6 @@
 ⚡ Fun fact: [LEGO](https://en.wikipedia.org/wiki/Lego) lover.
 
 <img src="https://raw.githubusercontent.com/guibranco/guibranco/master/lego_creator_collection.jpeg" width="50%" alt="Lego Creator collection" />
-
----
-
-</details>
-
-<details>
- <summary>🗣️ Latest blog posts</summary>
-  
-(most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)
-
-<!-- BLOG-POST-LIST:START -->
- - 💯 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
- - 🔥 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
- - 💫 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
- - 🚀 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)
- - 🌮 [Dev Essentials – Software and Tools](https://blog.guilhermebranco.com.br/dev-essentials-software-and-tools/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
