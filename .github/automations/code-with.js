@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { ReadmeBox } = require('readme-box');
 const simpleIcon = require("simple-icons");
 const fileName = ".github/automations/code-with.json";
 const generateImage = (tech) => {
