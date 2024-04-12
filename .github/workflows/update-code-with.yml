@@ -1,5 +1,4 @@
-name: Update experience
-
+name: Update things I code with
 on:
   workflow_dispatch:
   push:
