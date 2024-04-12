@@ -1,0 +1,33 @@
+name: Update experience
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/automations/code-with.json
+      - .github/automations/code-with.js
+      - .github/workflows/update-code-with.yml
+
+jobs:
+
+  update-readme-with-blog:
+    name: Update this repo's README with things I code with
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "yarn"
+
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          yarn install
+          yarn start-code-with

@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "start-code-with": "node .github/automations/code-with.js",
     "start-experience": "node .github/automations/experience.js",
     "start-organizations": "node .github/automations/organizations.js"
   },

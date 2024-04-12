@@ -15,7 +15,6 @@ const generateRow = (data) => {
   return `<tr><th>${data.skill}</th><td>${techs.join(" ")}</td></tr>`;
 };
 
-
 async function main() {
   try {
     const data = fs.readFileSync(fileName, "utf8");
