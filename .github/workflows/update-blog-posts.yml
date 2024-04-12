@@ -1,4 +1,4 @@
-name: Latest blog posts
+name: Update latest blog posts
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 jobs:
 
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
 
     steps:
