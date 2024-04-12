@@ -396,11 +396,6 @@
         "name": "Application Insights",
         "slug": "Microsoftazure",
         "text": "Application_Insights"
-      },
-      {
-        "name": "SEQ",
-        "slug": "Logseq",
-        "text": "SEQ"
       }
     ]
   },
