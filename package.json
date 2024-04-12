@@ -8,12 +8,14 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "start-code-with": "node .github/automations/code-with.js",
     "start-experience": "node .github/automations/experience.js",
     "start-organizations": "node .github/automations/organizations.js"
   },
   "dependencies": {
     "calculate-age": "^1.0.0",
     "chunk": "^0.0.3",
-    "readme-box": "^1.0.0"
+    "readme-box": "^1.0.0",
+    "simple-icons": "^11.12.0"
   }
 }

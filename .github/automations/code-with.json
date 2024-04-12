@@ -1,0 +1,637 @@
+[
+  {
+    "skill": "Backend",
+    "technologies": [
+      {
+        "name": "C Sharp",
+        "slug": "Csharp",
+        "text": "C_Sharp"
+      },
+      {
+        "name": ".NET",
+        "slug": "Dotnet",
+        "text": ".NET"
+      },
+      {
+        "name": "PHP",
+        "slug": "Php",
+        "text": "PHP"
+      },
+      {
+        "name": "Rust",
+        "slug": "Rust",
+        "text": "Rust"
+      },
+      {
+        "name": "NodeJS",
+        "slug": "Nodedotjs",
+        "text": "NodeJS"
+      },
+      {
+        "name": "Deno",
+        "slug": "Deno",
+        "text": "Deno"
+      },
+      {
+        "name": "Python",
+        "slug": "Python",
+        "text": "Python"
+      },
+      {
+        "name": "Go",
+        "slug": "Go",
+        "text": "Go"
+      }
+    ]
+  },
+  {
+    "skill": "JS/TS ecosystem",
+    "technologies": [
+      {
+        "name": "Javascript",
+        "slug": "Javascript",
+        "text": "Javascript"
+      },
+      {
+        "name": "Typescript",
+        "slug": "Typescript",
+        "text": "Typescript"
+      },
+      {
+        "name": "React",
+        "slug": "React",
+        "text": "React"
+      },
+      {
+        "name": "Angular",
+        "slug": "Angular",
+        "text": "Angular"
+      },
+      {
+        "name": "NextJS",
+        "slug": "Nextdotjs",
+        "text": "NextJS"
+      },
+      {
+        "name": "VueJS",
+        "slug": "Vuedotjs",
+        "text": "VueJS"
+      }
+    ]
+  },
+  {
+    "skill": "Frontend",
+    "technologies": [
+      {
+        "name": "HTML",
+        "slug": "Html5",
+        "text": "HTML"
+      },
+      {
+        "name": "CSS",
+        "slug": "Css3",
+        "text": "CSS"
+      },
+      {
+        "name": "Bootstrap",
+        "slug": "Bootstrap",
+        "text": "Bootstrap"
+      },
+      {
+        "name": "Bulma",
+        "slug": "Bulma",
+        "text": "Bulma"
+      },
+      {
+        "name": "Font Awesome",
+        "slug": "Fontawesome",
+        "text": "Font_Awesome"
+      }
+    ]
+  },
+  {
+    "skill": "SQL",
+    "technologies": [
+      {
+        "name": "Microsoft SQL Server",
+        "slug": "Microsoftsqlserver",
+        "text": "SQL_Server"
+      },
+      {
+        "name": "MySQL",
+        "slug": "Mysql",
+        "text": "MySQL"
+      },
+      {
+        "name": "MariaDB",
+        "slug": "Mariadb",
+        "text": "MariaDB"
+      },
+      {
+        "name": "PostgreSQL",
+        "slug": "Postgresql",
+        "text": "PostgreSQL"
+      },
+      {
+        "name": "Oracle",
+        "slug": "Oracle",
+        "text": "Oracle"
+      },
+      {
+        "name": "SQLite",
+        "slug": "Sqlite",
+        "text": "SQLite"
+      }
+    ]
+  },
+  {
+    "skill": "noSQL",
+    "technologies": [
+      {
+        "name": "Redis",
+        "slug": "Redis",
+        "text": "Redis"
+      },
+      {
+        "name": "Elastic Search",
+        "slug": "Elasticsearch",
+        "text": "Elastic_Search"
+      },
+      {
+        "name": "MongoDB",
+        "slug": "Mongodb",
+        "text": "MongoDB"
+      },
+      {
+        "name": "Apache Cassandra",
+        "slug": "Apachecassandra",
+        "text": "Apache Cassandra"
+      },
+      {
+        "name": "Azure CosmosDB",
+        "slug": "Microsoftazure",
+        "text": "Azure_CosmosDB"
+      },
+      {
+        "name": "Apache SOLR",
+        "slug": "Apachesolr",
+        "text": "Apache_SOLR"
+      }
+    ]
+  },
+  {
+    "skill": "Queue / Messaging",
+    "technologies": [
+      {
+        "name": "RabbitMQ",
+        "slug": "Rabbitmq",
+        "text": "RabbitMQ"
+      },
+      {
+        "name": "Apache Kafka",
+        "slug": "Apachekafka",
+        "text": "Apache_Kafka"
+      },
+      {
+        "name": "AWS SQS",
+        "slug": "Amazonsqs",
+        "text": "AWS_SQS"
+      },
+      {
+        "name": "Azure Service Bus",
+        "slug": "Microsoftazure",
+        "text": "Azure_Service Bus"
+      }
+    ]
+  },
+  {
+    "skill": "Package Manager",
+    "technologies": [
+      {
+        "name": "NuGet",
+        "slug": "Nuget",
+        "text": "NuGet"
+      },
+      {
+        "name": "NPM",
+        "slug": "Npm",
+        "text": "NPM"
+      },
+      {
+        "name": "YARN",
+        "slug": "Yarn",
+        "text": "YARN"
+      },
+      {
+        "name": "Cargo",
+        "slug": "Rust",
+        "text": "Cargo"
+      },
+      {
+        "name": "PyPI",
+        "slug": "Pypi",
+        "text": "PyPI"
+      },
+      {
+        "name": "Packagist",
+        "slug": "Packagist",
+        "text": "Packagist"
+      },
+      {
+        "name": "Composer",
+        "slug": "Composer",
+        "text": "Composer"
+      }
+    ]
+  },
+  {
+    "skill": "Version Control System (VCS)",
+    "technologies": [
+      {
+        "name": "GIT",
+        "slug": "Git",
+        "text": "GIT"
+      },
+      {
+        "name": "SubVersion",
+        "slug": "Subversion",
+        "text": "SubVersion"
+      }
+    ]
+  },
+  {
+    "skill": "Code hosting",
+    "technologies": [
+      {
+        "name": "GitHub",
+        "slug": "Github",
+        "text": "GitHub"
+      },
+      {
+        "name": "GitLab",
+        "slug": "Gitlab",
+        "text": "GitLab"
+      },
+      {
+        "name": "BitBucket",
+        "slug": "Bitbucket",
+        "text": "BitBucket"
+      },
+      {
+        "name": "Azure DevOps",
+        "slug": "Azuredevops",
+        "text": "Azure_DevOps"
+      }
+    ]
+  },
+  {
+    "skill": "Infrastructure as Code (IaC)",
+    "technologies": [
+      {
+        "name": "Terraform",
+        "slug": "Terraform",
+        "text": "Terraform"
+      }
+    ]
+  },
+  {
+    "skill": "Containers",
+    "technologies": [
+      {
+        "name": "Docker",
+        "slug": "Docker",
+        "text": "Docker"
+      },
+      {
+        "name": "Swarm",
+        "slug": "Swarm",
+        "text": "Swarm"
+      },
+      {
+        "name": "Kubernetes",
+        "slug": "Kubernetes",
+        "text": "Kubernetes"
+      },
+      {
+        "name": "AWS EKS",
+        "slug": "Amazoneks",
+        "text": "AWS_EKS"
+      },
+      {
+        "name": "Portainer",
+        "slug": "Portainer",
+        "text": "Portainer"
+      },
+      {
+        "name": "Azure AKS",
+        "slug": "Microsoftazure",
+        "text": "Azure_AKS"
+      }
+    ]
+  },
+  {
+    "skill": "(Web) Servers",
+    "technologies": [
+      {
+        "name": "Apache",
+        "slug": "Apache",
+        "text": "Apache"
+      },
+      {
+        "name": "NGINX",
+        "slug": "Nginx",
+        "text": "NGINX"
+      },
+      {
+        "name": "AWS EC2",
+        "slug": "Amazonec2",
+        "text": "AWS_EC2"
+      },
+      {
+        "name": "AWS Lambda",
+        "slug": "Awslambda",
+        "text": "AWS_Lambda"
+      },
+      {
+        "name": "Azure Container Apps",
+        "slug": "Microsoftazure",
+        "text": "Azure_Container Apps"
+      }
+    ]
+  },
+  {
+    "skill": "Observability (O11Y)",
+    "technologies": [
+      {
+        "name": "Grafana",
+        "slug": "Grafana",
+        "text": "Grafana"
+      },
+      {
+        "name": "Kibana",
+        "slug": "Kibana",
+        "text": "Kibana"
+      },
+      {
+        "name": "New Relic",
+        "slug": "Newrelic",
+        "text": "New_Relic"
+      },
+      {
+        "name": "Graylog",
+        "slug": "Graylog",
+        "text": "Graylog"
+      },
+      {
+        "name": "Datadog",
+        "slug": "Datadog",
+        "text": "Datadog"
+      },
+      {
+        "name": "AWS CloudWatch",
+        "slug": "Amazoncloudwatch",
+        "text": "AWS_CloudWatch"
+      },
+      {
+        "name": "Application Insights",
+        "slug": "Microsoftazure",
+        "text": "Application_Insights"
+      },
+      {
+        "name": "SEQ",
+        "slug": "Logseq",
+        "text": "SEQ"
+      }
+    ]
+  },
+  {
+    "skill": "Continuous Integration (CI)",
+    "technologies": [
+      {
+        "name": "GitHub Actions",
+        "slug": "Githubactions",
+        "text": "GitHub_Actions"
+      },
+      {
+        "name": "AppVeyor",
+        "slug": "Appveyor",
+        "text": "AppVeyor"
+      },
+      {
+        "name": "CircleCI",
+        "slug": "Circleci",
+        "text": "CircleCI"
+      },
+      {
+        "name": "Azure Pipelines",
+        "slug": "Azurepipelines",
+        "text": "Azure_Pipelines"
+      },
+      {
+        "name": "TeamCity",
+        "slug": "Teamcity",
+        "text": "TeamCity"
+      },
+      {
+        "name": "Jenkins",
+        "slug": "Jenkins",
+        "text": "Jenkins"
+      }
+    ]
+  },
+  {
+    "skill": "Continuous Deployment (CD)",
+    "technologies": [
+      {
+        "name": "ArgoCD",
+        "slug": "Argo",
+        "text": "ArgoCD"
+      },
+      {
+        "name": "Istio",
+        "slug": "Istio",
+        "text": "Istio"
+      },
+      {
+        "name": "DAPR",
+        "slug": "Dapr",
+        "text": "DAPR"
+      },
+      {
+        "name": "Vault",
+        "slug": "Vault",
+        "text": "Vault"
+      }
+    ]
+  },
+  {
+    "skill": "Cloud",
+    "technologies": [
+      {
+        "name": "AWS",
+        "slug": "Amazonaws",
+        "text": "AWS"
+      },
+      {
+        "name": "Azure",
+        "slug": "Microsoftazure",
+        "text": "Azure"
+      },
+      {
+        "name": "Heroku",
+        "slug": "Heroku",
+        "text": "Heroku"
+      },
+      {
+        "name": "Vercel",
+        "slug": "Vercel",
+        "text": "Vercel"
+      },
+      {
+        "name": "GoDaddy",
+        "slug": "Godaddy",
+        "text": "GoDaddy"
+      },
+      {
+        "name": "Hetzner",
+        "slug": "Hetzner",
+        "text": "Hetzner"
+      },
+      {
+        "name": "Digital Ocean",
+        "slug": "Digitalocean",
+        "text": "Digital_Ocean"
+      },
+      {
+        "name": "OVH",
+        "slug": "Ovh",
+        "text": "OVH"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure",
+        "slug": "Oracle",
+        "text": "Oracle Cloud"
+      }
+    ]
+  },
+  {
+    "skill": "Agile",
+    "technologies": [
+      {
+        "name": "Jira",
+        "slug": "Jira",
+        "text": "Jira"
+      },
+      {
+        "name": "Azure DevOps",
+        "slug": "Azuredevops",
+        "text": "Azure_DevOps"
+      },
+      {
+        "name": "Trello",
+        "slug": "Trello",
+        "text": "Trello"
+      },
+      {
+        "name": "Confluence",
+        "slug": "Confluence",
+        "text": "Confluence"
+      },
+      {
+        "name": "RunRun.it",
+        "slug": "Runrundotit",
+        "text": "RunRun.it"
+      }
+    ]
+  },
+  {
+    "skill": "Testing",
+    "technologies": [
+      {
+        "name": "Swagger",
+        "slug": "Swagger",
+        "text": "Swagger"
+      },
+      {
+        "name": "Postman",
+        "slug": "Postman",
+        "text": "Postman"
+      },
+      {
+        "name": "Insomnia",
+        "slug": "Insomnia",
+        "text": "Insomnia"
+      },
+      {
+        "name": "Playwright",
+        "slug": "Playwright",
+        "text": "Playwright"
+      },
+      {
+        "name": "Selenium",
+        "slug": "Selenium",
+        "text": "Selenium"
+      },
+      {
+        "name": "Puppeteer",
+        "slug": "Puppeteer",
+        "text": "Puppeteer"
+      },
+      {
+        "name": "Stryker",
+        "slug": "Stryker",
+        "text": "Stryker"
+      }
+    ]
+  },
+  {
+    "skill": "Code Quality",
+    "technologies": [
+      {
+        "name": "ReSharper",
+        "slug": "Resharper",
+        "text": "ReSharper"
+      },
+      {
+        "name": "SonarCloud",
+        "slug": "Sonarcloud",
+        "text": "SonarCloud"
+      },
+      {
+        "name": "SonarLint",
+        "slug": "Sonarlint",
+        "text": "SonarLint"
+      },
+      {
+        "name": "Snyk",
+        "slug": "Snyk",
+        "text": "Snyk"
+      },
+      {
+        "name": "Codacy",
+        "slug": "Codacy",
+        "text": "Codacy"
+      },
+      {
+        "name": "Codecov",
+        "slug": "Codecov",
+        "text": "Codecov"
+      },
+      {
+        "name": "Code Climate",
+        "slug": "Codeclimate",
+        "text": "Code_Climate"
+      },
+      {
+        "name": "Code Factor",
+        "slug": "Codefactor",
+        "text": "Code_Factor"
+      },
+      {
+        "name": "DependaBot",
+        "slug": "Dependabot",
+        "text": "DependaBot"
+      }
+    ]
+  }
+]
