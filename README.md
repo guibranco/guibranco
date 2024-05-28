@@ -12,7 +12,7 @@
 
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, living in Dublin, Ireland <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" />.
 <br />
-> **Note**
+> [!Note]
 > 
 > 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a Portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
