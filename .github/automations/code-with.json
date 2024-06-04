@@ -291,6 +291,11 @@
         "name": "Terraform",
         "slug": "Terraform",
         "text": "Terraform"
+      },
+      {
+        "name": "Pulumi",
+        "slug": "Pulumi",
+        "text": "Pulumi"
       }
     ]
   },
