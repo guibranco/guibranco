@@ -588,11 +588,10 @@
         "text": "Apache_JMeter"
       },
       {
-        "name": "k6",
+        "name": "K6",
         "slug": "k6",
         "text": "K6"
-      },
-        
+      }        
     ]
   },
   {
