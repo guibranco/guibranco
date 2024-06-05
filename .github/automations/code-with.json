@@ -581,7 +581,18 @@
         "name": "Stryker",
         "slug": "Stryker",
         "text": "Stryker"
-      }
+      },
+      {
+        "name": "apachejmeter",
+        "slug": "apachejmeter",
+        "text": "Apache JMeter"
+      },
+      {
+        "name": "k6",
+        "slug": "k6",
+        "text": "K6"
+      },
+        
     ]
   },
   {
