@@ -3,12 +3,11 @@ const { ReadmeBox } = require('readme-box');
 const simpleIcon = require("simple-icons");
 const fileName = ".github/automations/code-with.json";
 const generateImage = (tech) => {
-  if (simpleIcon["si" + tech.slug]) {
-    const icon = simpleIcon["si" + tech.slug];
-    return `<img alt="${tech.name}" src="https://img.shields.io/badge/-${tech.text}-${icon.hex}?style=flat-square&logo=${icon.slug}&logoColor=white" />`;
+  if (!simpleIcon["si" + tech.slug]) {
+    throw new Error(`Icon not found for ${tech.name}`);
   }
-  console.error(`Icon not found for ${tech.name}`);
-  return tech.name;
+  const icon = simpleIcon["si" + tech.slug];
+  return `<img alt="${tech.name}" src="https://img.shields.io/badge/-${tech.text}-${icon.hex}?style=flat-square&logo=${icon.slug}&logoColor=white" />`;
 };
 
 const generateRow = (data) => {
