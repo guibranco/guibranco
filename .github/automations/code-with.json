@@ -583,9 +583,9 @@
         "text": "Stryker"
       },
       {
-        "name": "apachejmeter",
+        "name": "Apache JMeter",
         "slug": "apachejmeter",
-        "text": "Apache JMeter"
+        "text": "Apache_JMeter"
       },
       {
         "name": "k6",
