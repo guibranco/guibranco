@@ -469,7 +469,7 @@
     "technologies": [
       {
         "name": "AWS",
-        "slug": "Amazonaws",
+        "slug": "Amazonwebservices",
         "text": "AWS"
       },
       {
@@ -584,12 +584,12 @@
       },
       {
         "name": "Apache JMeter",
-        "slug": "apachejmeter",
+        "slug": "Apachejmeter",
         "text": "Apache_JMeter"
       },
       {
         "name": "K6",
-        "slug": "k6",
+        "slug": "K6",
         "text": "K6"
       }        
     ]
