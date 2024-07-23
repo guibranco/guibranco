@@ -36,8 +36,6 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 ---
 
 ## 🗣️ Latest blog posts
-  
-(most in PT-BR <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />)
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
