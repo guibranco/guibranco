@@ -304,12 +304,12 @@
       },
       {
         "name": "Pulumi",
-        "slug": "pulumi",
+        "slug": "Pulumi",
         "text": "Pulumi"
       },
       {
         "name": "Ansible",
-        "slug": "ansible",
+        "slug": "Ansible",
         "text": "Ansible"
       }      
     ]
