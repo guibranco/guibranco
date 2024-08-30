@@ -2,6 +2,35 @@ const fs = require("fs");
 const { ReadmeBox } = require('readme-box');
 const simpleIcon = require("simple-icons");
 const fileName = ".github/automations/code-with.json";
+/**
+ * Generates an HTML image element for a technology badge.
+ *
+ * This function checks if a simple icon exists for the given technology. 
+ * If the icon is not found and no color is specified, an error is thrown. 
+ * If the icon is not found but a color is provided, a default badge with 
+ * the specified color is generated. If the icon is found, a badge with 
+ * the corresponding icon and its color is generated.
+ *
+ * @param {Object} tech - The technology object containing details for the badge.
+ * @param {string} tech.slug - The slug used to identify the technology.
+ * @param {string} tech.name - The name of the technology.
+ * @param {string} tech.text - The text to display on the badge.
+ * @param {string} [tech.color] - The optional color for the badge.
+ *
+ * @throws {Error} Throws an error if the icon is not found and no color is provided.
+ *
+ * @returns {string} An HTML string representing the image element for the badge.
+ *
+ * @example
+ * const tech = {
+ *   slug: 'javascript',
+ *   name: 'JavaScript',
+ *   text: 'JavaScript',
+ *   color: 'yellow'
+ * };
+ * const badgeHtml = generateImage(tech);
+ * // Returns: '<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />'
+ */
 const generateImage = (tech) => {
   if (!simpleIcon["si" + tech.slug] && typeof tech.color === "undefined") {
     throw new Error(`Icon not found for ${tech.name}`);
