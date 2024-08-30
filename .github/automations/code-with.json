@@ -298,9 +298,9 @@
         "text": "Terraform"
       },
       {
-        "name": "OpenToFu",
+        "name": "OpenTofu",
         "slug": "opentofu",
-        "text": "OpenToFu"        
+        "text": "OpenTofu"        
       },
       {
         "name": "Pulumi",
