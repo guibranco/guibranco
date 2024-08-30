@@ -499,7 +499,8 @@
       {
         "name": "Azure",
         "slug": "Microsoftazure",
-        "text": "Azure"
+        "text": "Azure",
+        "color": "0078D4"
       },
       {
         "name": "Heroku",
