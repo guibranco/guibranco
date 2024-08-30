@@ -284,7 +284,8 @@
       {
         "name": "Azure DevOps",
         "slug": "Azuredevops",
-        "text": "Azure_DevOps"
+        "text": "Azure_DevOps",
+        "color": "0078D7"
       }
     ]
   },
