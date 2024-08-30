@@ -25,7 +25,7 @@ async function main() {
   const json = JSON.parse(data);
   const rows = json.map((row) => generateRow(row));
   const html = `<table width="100%"><thead><th>Skill</th><th>Technologies</th></thead><tbody>${rows.join(
-    ""
+    "\n"
   )}</tbody></table>`;
 
   await ReadmeBox.updateSection(html, {
