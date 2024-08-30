@@ -37,7 +37,7 @@ const generateImage = (tech) => {
   }
   
   if (!simpleIcon["si" + tech.slug] && typeof tech.color !== "undefined") {
-    return `<img alt="${tech.name}" src="https://img.shields.io/badge/❔-${tech.text}-${tech.color}?style=flat-square" />`;
+    return `<img alt="${tech.name}" src="https://img.shields.io/badge/❔-${tech.text}-${tech.color}?style=flat-square&labelColor=white" />`;
   }
   
   const icon = simpleIcon["si" + tech.slug];
