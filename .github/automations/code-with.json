@@ -300,7 +300,8 @@
       {
         "name": "OpenTofu",
         "slug": "opentofu",
-        "text": "OpenTofu"        
+        "text": "OpenTofu",
+        "color": "FFDA18"
       },
       {
         "name": "Pulumi",
