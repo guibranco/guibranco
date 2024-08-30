@@ -116,7 +116,8 @@
       {
         "name": "Microsoft SQL Server",
         "slug": "Microsoftsqlserver",
-        "text": "SQL_Server"
+        "text": "SQL_Server",
+        "color": "CC2927"
       },
       {
         "name": "MySQL",
