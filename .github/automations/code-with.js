@@ -15,6 +15,26 @@ const generateImage = (tech) => {
   return `<img alt="${tech.name}" src="https://img.shields.io/badge/-${tech.text}-${icon.hex}?style=flat-square&logo=${icon.slug}&logoColor=white" />`;
 };
 
+/**
+ * Generates an HTML table row for a given skill and its associated technologies.
+ *
+ * This function takes an object containing a skill and an array of technologies,
+ * processes the technologies to generate corresponding HTML images, and returns
+ * a formatted table row as a string.
+ *
+ * @param {Object} data - The data object containing skill and technologies.
+ * @param {string} data.skill - The name of the skill to be displayed in the table header.
+ * @param {Array<string>} data.technologies - An array of technology names associated with the skill.
+ * 
+ * @returns {string} A string representing an HTML table row with the skill and its technologies.
+ *
+ * @example
+ * const row = generateRow({
+ *   skill: 'JavaScript',
+ *   technologies: ['React', 'Node.js', 'Express']
+ * });
+ * // Returns: <tr><th>JavaScript</th><td><img src="react.png" alt="React"><img src="node.png" alt="Node.js"><img src="express.png" alt="Express"></td></tr>
+ */
 const generateRow = (data) => {
   const techs = data.technologies.map((tech) => generateImage(tech));
   return `<tr><th>${data.skill}</th><td>${techs.join("\n")}</td></tr>`;
