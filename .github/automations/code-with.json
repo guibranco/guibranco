@@ -172,7 +172,8 @@
       {
         "name": "Azure CosmosDB",
         "slug": "Microsoftazure",
-        "text": "Azure_CosmosDB"
+        "text": "Azure_CosmosDB",
+        "color": "0078D4"
       },
       {
         "name": "Apache SOLR",
