@@ -443,7 +443,8 @@
       {
         "name": "Azure Pipelines",
         "slug": "Azurepipelines",
-        "text": "Azure_Pipelines"
+        "text": "Azure_Pipelines",
+        "color": "2560E0"
       },
       {
         "name": "TeamCity",
