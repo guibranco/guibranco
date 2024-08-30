@@ -345,7 +345,8 @@
       {
         "name": "Azure AKS",
         "slug": "Microsoftazure",
-        "text": "Azure_AKS"
+        "text": "Azure_AKS",
+        "color": "0078D4"
       }
     ]
   },
