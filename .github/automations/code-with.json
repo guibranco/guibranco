@@ -5,7 +5,8 @@
       {
         "name": "C Sharp",
         "slug": "Csharp",
-        "text": "C_Sharp"
+        "text": "C_Sharp",
+        "color": "512BD4"
       },
       {
         "name": ".NET",
@@ -115,7 +116,8 @@
       {
         "name": "Microsoft SQL Server",
         "slug": "Microsoftsqlserver",
-        "text": "SQL_Server"
+        "text": "SQL_Server",
+        "color": "CC2927"
       },
       {
         "name": "MySQL",
@@ -170,7 +172,8 @@
       {
         "name": "Azure CosmosDB",
         "slug": "Microsoftazure",
-        "text": "Azure_CosmosDB"
+        "text": "Azure_CosmosDB",
+        "color": "0078D4"
       },
       {
         "name": "Apache SOLR",
@@ -200,7 +203,8 @@
       {
         "name": "Azure Service Bus",
         "slug": "Microsoftazure",
-        "text": "Azure_Service Bus"
+        "text": "Azure_Service Bus",
+        "color": "0078D4"
       }
     ]
   },
@@ -280,7 +284,8 @@
       {
         "name": "Azure DevOps",
         "slug": "Azuredevops",
-        "text": "Azure_DevOps"
+        "text": "Azure_DevOps",
+        "color": "0078D7"
       }
     ]
   },
@@ -293,9 +298,9 @@
         "text": "Terraform"
       },
       {
-        "name": "OpenToFu",
+        "name": "OpenTofu",
         "slug": "opentofu",
-        "text": "OpenToFu"        
+        "text": "OpenTofu"        
       },
       {
         "name": "Pulumi",

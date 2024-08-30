@@ -46,7 +46,7 @@ const generateImage = (tech) => {
 
 const generateRow = (data) => {
   const techs = data.technologies.map((tech) => generateImage(tech));
-  return `<tr><th>${data.skill}</th><td>${techs.join(" ")}</td></tr>`;
+  return `<tr><th>${data.skill}</th><td>${techs.join("\n")}</td></tr>`;
 };
 
 async function main() {
@@ -54,7 +54,7 @@ async function main() {
   const json = JSON.parse(data);
   const rows = json.map((row) => generateRow(row));
   const html = `<table width="100%"><thead><th>Skill</th><th>Technologies</th></thead><tbody>${rows.join(
-    ""
+    "\n"
   )}</tbody></table>`;
 
   await ReadmeBox.updateSection(html, {
