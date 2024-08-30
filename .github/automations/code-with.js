@@ -17,7 +17,7 @@ const generateImage = (tech) => {
 
 const generateRow = (data) => {
   const techs = data.technologies.map((tech) => generateImage(tech));
-  return `<tr><th>${data.skill}</th><td>${techs.join(" ")}</td></tr>`;
+  return `<tr><th>${data.skill}</th><td>${techs.join("\n")}</td></tr>`;
 };
 
 async function main() {
