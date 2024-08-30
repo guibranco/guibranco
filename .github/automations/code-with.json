@@ -203,7 +203,8 @@
       {
         "name": "Azure Service Bus",
         "slug": "Microsoftazure",
-        "text": "Azure_Service Bus"
+        "text": "Azure_Service Bus",
+        "color": "0078D4"
       }
     ]
   },
