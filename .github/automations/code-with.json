@@ -5,7 +5,8 @@
       {
         "name": "C Sharp",
         "slug": "Csharp",
-        "text": "C_Sharp"
+        "text": "C_Sharp",
+        "color": "512BD4"
       },
       {
         "name": ".NET",
