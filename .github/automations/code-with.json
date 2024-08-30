@@ -591,7 +591,8 @@
       {
         "name": "Playwright",
         "slug": "Playwright",
-        "text": "Playwright"
+        "text": "Playwright",
+        "color": "2EAD33"
       },
       {
         "name": "Selenium",
