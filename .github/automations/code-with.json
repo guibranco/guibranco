@@ -293,10 +293,20 @@
         "text": "Terraform"
       },
       {
+        "name": "OpenToFu",
+        "slug": "opentofu",
+        "text": "OpenToFu"        
+      },
+      {
         "name": "Pulumi",
-        "slug": "Pulumi",
+        "slug": "pulumi",
         "text": "Pulumi"
-      }
+      },
+      {
+        "name": "Ansible",
+        "slug": "ansible",
+        "text": "Ansible"
+      }      
     ]
   },
   {
@@ -446,6 +456,11 @@
         "name": "ArgoCD",
         "slug": "Argo",
         "text": "ArgoCD"
+      },
+      {
+        "name": "Octopus Deploy",
+        "slug": "octopusdeploy",
+        "text": "Octopus Deploy"
       },
       {
         "name": "Istio",
