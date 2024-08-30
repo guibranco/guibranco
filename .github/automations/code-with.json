@@ -376,7 +376,8 @@
       {
         "name": "Azure Container Apps",
         "slug": "Microsoftazure",
-        "text": "Azure_Container Apps"
+        "text": "Azure_Container Apps",
+        "color": "0078D4"
       }
     ]
   },
