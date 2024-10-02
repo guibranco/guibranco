@@ -204,7 +204,13 @@
         "slug": "Microsoftazure",
         "text": "Azure_Service Bus",
         "color": "0078D4"
-      }
+      },
+      {
+        "name": "LavinMQ",
+        "slug": "Lavinmq",
+        "text": "LavinMQ",
+        "color": "44fc70"
+      }        
     ]
   },
   {
