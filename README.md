@@ -80,7 +80,7 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
   <summary>🧰 Things I code with</summary>
 
 <!--START_SECTION:code-with-section-->
-<table width="100%"><thead><th>Skill</th><th>Technologies</th></thead><tbody><tr><th>Backend</th><td><img alt="C Sharp" src="https://img.shields.io/badge/❔-C_Sharp-512BD4?style=flat-square&labelColor=white" />
+<table width="100%"><thead><th>Skill</th><th>Technologies</th></thead><tbody><tr><th>Backend</th><td><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
