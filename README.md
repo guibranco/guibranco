@@ -114,7 +114,8 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 <tr><th>Queue / Messaging</th><td><img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img alt="AWS SQS" src="https://img.shields.io/badge/-AWS_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" />
-<img alt="Azure Service Bus" src="https://img.shields.io/badge/❔-Azure_Service Bus-0078D4?style=flat-square&labelColor=white" /></td></tr>
+<img alt="Azure Service Bus" src="https://img.shields.io/badge/❔-Azure_Service Bus-0078D4?style=flat-square&labelColor=white" />
+<img alt="LavinMQ" src="https://img.shields.io/badge/❔-LavinMQ-44fc70?style=flat-square&labelColor=white" /></td></tr>
 <tr><th>Package Manager</th><td><img alt="NuGet" src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="YARN" src="https://img.shields.io/badge/-YARN-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
