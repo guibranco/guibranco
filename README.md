@@ -85,7 +85,7 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" />
+<img alt="Deno" src="https://img.shields.io/badge/-Deno-70FFAF?style=flat-square&logo=deno&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></td></tr>
 <tr><th>JS/TS ecosystem</th><td><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -193,7 +193,8 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 <img alt="Codecov" src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white" />
 <img alt="Code Climate" src="https://img.shields.io/badge/-Code_Climate-000000?style=flat-square&logo=codeclimate&logoColor=white" />
 <img alt="Code Factor" src="https://img.shields.io/badge/-Code_Factor-F44A6A?style=flat-square&logo=codefactor&logoColor=white" />
-<img alt="DependaBot" src="https://img.shields.io/badge/-DependaBot-025E8C?style=flat-square&logo=dependabot&logoColor=white" /></td></tr></tbody></table>
+<img alt="DependaBot" src="https://img.shields.io/badge/-DependaBot-025E8C?style=flat-square&logo=dependabot&logoColor=white" />
+<img alt="DeepSource" src="https://img.shields.io/badge/❔-DeepSource-000000?style=flat-square&labelColor=white" /></td></tr></tbody></table>
 <!--END_SECTION:code-with-section-->
 
 ---
