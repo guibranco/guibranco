@@ -673,6 +673,12 @@
         "name": "DependaBot",
         "slug": "Dependabot",
         "text": "DependaBot"
+      },
+      {
+        "name": "DeepSource",
+        "slug": "Deepsource",
+        "text": "DeepSource",
+        "color": "000000"
       }
     ]
   }
