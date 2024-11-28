@@ -76,6 +76,11 @@
         "name": "VueJS",
         "slug": "Vuedotjs",
         "text": "VueJS"
+      },
+      {
+        "name": "Vite",
+        "slug": "Vite",
+        "text": "Vite"
       }
     ]
   },
