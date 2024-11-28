@@ -93,7 +93,8 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=flat-square&logo=angular&logoColor=white" />
 <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img alt="VueJS" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></td></tr>
+<img alt="VueJS" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></td></tr>
 <tr><th>Frontend</th><td><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
