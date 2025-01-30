@@ -23,5 +23,5 @@
     { "since": "2020-01-01", "tech": "Rust" },
     { "since": "2020-11-01", "tech": "Python" },
     { "since": "2024-06-01", "tech": "Vite" },
-    { "since": "2029-01-01", "tech": "Docker" },
+    { "since": "2029-01-01", "tech": "Docker" }
 ]
