@@ -22,6 +22,6 @@
     { "since": "2021-05-01", "tech": "Terraform" },
     { "since": "2020-01-01", "tech": "Rust" },
     { "since": "2020-11-01", "tech": "Python" },
-    { "since": "2022-06-01", "tech": "Go" },
-    { "since": "2022-01-01", "tech": "NextJS" }
+    { "since": "2024-06-01", "tech": "Vite" },
+    { "since": "2029-01-01", "tech": "Docker" },
 ]
