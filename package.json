@@ -10,7 +10,8 @@
   "scripts": {
     "start-code-with": "node .github/automations/code-with.js",
     "start-experience": "node .github/automations/experience.js",
-    "start-organizations": "node .github/automations/organizations.js"
+    "start-organizations": "node .github/automations/organizations.js",
+    "scan": "echo 'Please connect a supported code scanning tool'"
   },
   "dependencies": {
     "calculate-age": "^1.0.0",
