@@ -240,3 +240,6 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 </details>
 
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
+## Pixeebot Activity Dashboard
+This dashboard summarizes repository activity based on Pixee analysis and provides insights into potential improvement opportunities.
+
