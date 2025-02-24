@@ -1,4 +1,11 @@
 name: Fix SonarCloud Issues with Pixeebot
+name: SonarCloud Analysis
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 on:
   check_run:
     types: [completed]
