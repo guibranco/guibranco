@@ -104,7 +104,7 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/❔-Oracle-F80000?style=flat-square&labelColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></td></tr>
 <tr><th>noSQL</th><td><img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
 <img alt="Elastic Search" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
@@ -171,7 +171,7 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 <img alt="Hetzner" src="https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
 <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
 <img alt="OVH" src="https://img.shields.io/badge/-OVH-123F6D?style=flat-square&logo=ovh&logoColor=white" />
-<img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/-Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" /></td></tr>
+<img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/❔-Oracle Cloud-F80000?style=flat-square&labelColor=white" /></td></tr>
 <tr><th>Agile</th><td><img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/❔-Azure_DevOps-0078D4?style=flat-square&labelColor=white" />
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
