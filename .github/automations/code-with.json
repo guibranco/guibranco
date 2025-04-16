@@ -546,7 +546,8 @@
       {
         "name": "Oracle Cloud Infrastructure",
         "slug": "Oracle",
-        "text": "Oracle Cloud"
+        "text": "Oracle Cloud",
+        "color": "F80000"
       }
     ]
   },
