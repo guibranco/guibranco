@@ -141,7 +141,8 @@
       {
         "name": "Oracle",
         "slug": "Oracle",
-        "text": "Oracle"
+        "text": "Oracle",
+        "color: "F80000"
       },
       {
         "name": "SQLite",
