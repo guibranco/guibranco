@@ -12,8 +12,9 @@
 
 💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, living in Dublin, Ireland <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" />.
 <br />
+
 > [!Important]
-> 
+>
 > 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a Portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
 ---
@@ -25,7 +26,7 @@ Based in Dublin, Ireland <img src="https://raw.githubusercontent.com/hjnilsson/c
 Based in Dubai, UAE <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" />, as a backend engineer, working with C# (.NET versions 5, 6, and 7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on `QCommerce tribe` (formerly `Grocery tribe`) in `Grocery Fulfillment` and later on `Shopping Experience` (`SHOPX`) squad (once `Finding and Shopping Team - FAST`).
 
 🔭 Over one year and a half, working in [Banco BS2](https://www.bancobs2.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a backend engineer, using C# (.NET Core versions 2.2, 3.0, and 3.1), Docker, RabbitMQ, Azure DevOps, and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en).
-I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects. 
+I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects.
 
 🔭 In the past, I worked with e-commerce for about eight years. Significant time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
 
@@ -38,11 +39,12 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
- - 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
- - 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
- - 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
- - 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
+
+- 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
+- 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
+- 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
+- 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
+- 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -214,7 +216,7 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 </details>
 
 <details>
- <summary>:octocat: Github Stats</summary> 
+ <summary>:octocat: Github Stats</summary>
 
 (since January 23, 2013)
 
