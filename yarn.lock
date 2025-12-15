@@ -85,10 +85,10 @@ readme-box@^1.0.0:
   dependencies:
     "@octokit/request" "^5.6.0"
 
-simple-icons@^16.1.0:
-  version "16.1.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-16.1.0.tgz#ae36d129391df138948963597522c9f4fe2713e8"
-  integrity sha512-fL95b22MWTn3y+zQ/QC9oKqJ6mXXNwm35oy5XMVPdvJZGfGNWDMMb33kfqm50OuRKNcdjbk7HQ73NdWcvaBXIQ==
+simple-icons@^16.2.0:
+  version "16.2.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-16.2.0.tgz#a9ffaa1f72f011ac06589f23830d4f5b6862db76"
+  integrity sha512-SCV4cAX8O2M2WQ3QJm+3k4QdcUIJiBiwKNViQiOwPjWbFWgypzelviW+Bp0A2ij6r/DIEZpTTDcLgD/BE4aexQ==
 
 tr46@~0.0.3:
   version "0.0.3"
