@@ -223,7 +223,6 @@ I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)]
 [![GuiBranco's GitHub stats](https://github-readme-stats-guibranco.vercel.app/api/top-langs?hide_border=true&username=guibranco&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=12)](https://github.com/guibranco/github-readme-stats)
 
 [![GuiBranco's GitHub streak](https://github-readme-streak-stats-guibranco.vercel.app/?user=guibranco&theme=github-green-purple&fire=FF6600)](https://github.com/guibranco/github-readme-streak-stats)
-[![GuiBranco's GitHub stats](https://api.githubtrends.io/user/svg/guibranco/repos?time_range=one_year&group=private&theme=dark&include_private=true&loc_metric=changed)](https://github.com/avgupta456/github-trends)
 
 ---
 
