@@ -19,20 +19,68 @@
 
 ---
 
-🔭 Since April, 2023 working in [OUTsurance Ireland](https://www.outsurance.ie/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" /> an online insurance company from [OUTsurance South Africa](https://www.outsurance.co.za/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/za.svg" width="16" alt="South Africa flag" /> and [Youi Australia](https://www.youi.com.au/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/au.svg" width="16" alt="Australia flag" />.
-Based in Dublin, Ireland <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" /> as a senior software engineer, working with C# (.NET versions 6, 7, 8, and 9), Docker, Azure DevOps, Azure CosmosDB, Terraform, Azure Service Bus, RabbitMQ, Microsoft SQL Server and other tools, building the `billing and financial`, `policy administration`, and `rerates` services.
+## 💼 Professional Experience
 
-🔭 Two years working in [Talabat](https://talabat.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" /> (part of [Delivery Hero](https://deliveryhero.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/de.svg" width="16" alt="Germany flag" />), which is a [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery company in [GCC](https://en.wikipedia.org/wiki/Gulf_Cooperation_Council) and [MENA](https://en.wikipedia.org/wiki/MENA).
-Based in Dubai, UAE <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" />, as a backend engineer, working with C# (.NET versions 5, 6, and 7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI and other tools on `QCommerce tribe` (formerly `Grocery tribe`) in `Grocery Fulfillment` and later on `Shopping Experience` (`SHOPX`) squad (once `Finding and Shopping Team - FAST`).
+### Senior Software Engineer @ [OUTsurance Ireland](https://www.outsurance.ie/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" />
+**April 2023 - Present | Dublin, Ireland**
 
-🔭 Over one year and a half, working in [Banco BS2](https://www.bancobs2.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a backend engineer, using C# (.NET Core versions 2.2, 3.0, and 3.1), Docker, RabbitMQ, Azure DevOps, and Microsoft SQL Server to develop the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en).
-I've also worked on Open Banking and [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects.
+Working as a Senior Software Engineer at an online insurance company, part of the [OUTsurance South Africa](https://www.outsurance.co.za/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/za.svg" width="16" alt="South Africa flag" /> and [Youi Australia](https://www.youi.com.au/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/au.svg" width="16" alt="Australia flag" /> group.
 
-🔭 In the past, I worked with e-commerce for about eight years. Significant time using [VTEX](https://vtex.com) PaaS (Platform as a Service).
+**Key responsibilities:** Building and maintaining billing and financial services, policy administration systems, and rerates services.
 
-🏢 Companies: [OUTsurance](https://www.outsurance.ie) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" /> | [Talabat](https://talabat.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" /> | [Syndigo](https://syndigo.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/us.svg" width="16" alt="USA flag" /> | [FCamara](https://fcamara.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [The Bridge Social](https://thebridge.social/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/cl.svg" width="16" alt="Chile flag" /> | [Grace Kennedy Group](https://gracekennedy.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/jm.svg" width="16" alt="Jamaica flag" /> | [Farfetch](https://farfetch.pt/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> | [Multivision](https://multivision.pt/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> | [Banco BS2](https://www.bancobs2.com.br/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [K2 Partnering Solutions](https://k2partnering.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [C&A](https://www.cea.com.br/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [Inovação Media Brasil](https://www.editorainovacao.com.br/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />.
+**Tech stack:** C# (.NET 6, 7, 8, 8 and 10), Docker, Azure DevOps, Azure CosmosDB, Terraform, Azure Service Bus, RabbitMQ, Microsoft SQL Server
 
-🏗️ Industries: Financial 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | Integrations ⚙️ | QCommerce 🛒 | e-Commerce 🧺.
+---
+
+### Backend Engineer @ [Talabat](https://talabat.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" />
+**2021 - 2023 | Dubai, UAE**
+
+Contributed to a leading [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery platform in the [GCC](https://en.wikipedia.org/wiki/Gulf_Cooperation_Council) and [MENA](https://en.wikipedia.org/wiki/MENA) regions, part of [Delivery Hero](https://deliveryhero.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/de.svg" width="16" alt="Germany flag" />
+
+**Key responsibilities:** Developed solutions for the QCommerce tribe (formerly Grocery tribe), focusing on Grocery Fulfillment and Shopping Experience (SHOPX) squad.
+
+**Tech stack:** C# (.NET 5, 6, 7), Docker, AWS (SQS, SNS, Lambda, S3, SSM, EC2), Microsoft SQL Server, PostgreSQL, Terraform, ArgoCD, CircleCI
+
+---
+
+### Backend Engineer @ [Farfetch](https://farfetch.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" />
+**December 2020 - May 2021 | Porto, Portugal**
+
+Contributed to a leading global platform in the luxury fashion online market, focusing on search infrastructure and data-driven solutions.
+
+**Key responsibilities:** Developed improvements for the platform's search services as part of the Search & Scouts team, collaborated closely with Data Scientists to provide data schemas and support ML initiatives, participated in Agile ceremonies using Scrum and Kanban.
+
+**Tech stack:** C# (.NET Core), Kafka, Cassandra, Elasticsearch, Jira
+
+---
+
+### Backend Engineer @ [Banco BS2](https://www.bancobs2.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />
+**2019 - 2021 | Brazil**
+
+Developed critical banking infrastructure for a digital banking institution, specializing in payment systems and open banking solutions.
+
+**Key responsibilities:** Built the [SPI/PIX solution (Brazilian Instant Payments system)](https://www.bcb.gov.br/en/financialstability/pix_en), implemented Open Banking features, and contributed to [API Banking (BaaS - Banking as a Service)](https://devs.bs2.com/) projects.
+
+**Tech stack:** C# (.NET Core 2.2, 3.0, 3.1), Docker, RabbitMQ, Azure DevOps, Microsoft SQL Server
+
+---
+
+### E-commerce Developer
+**2011 - 2019 | Various Companies**
+
+Spent eight years building e-commerce solutions, with extensive experience using [VTEX](https://vtex.com) PaaS (Platform as a Service).
+
+---
+
+## 🏢 Career Timeline
+
+[OUTsurance](https://www.outsurance.ie) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" /> | [Talabat](https://talabat.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" /> | [Syndigo](https://syndigo.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/us.svg" width="16" alt="USA flag" /> | [FCamara](https://fcamara.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [The Bridge Social](https://thebridge.social/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/cl.svg" width="16" alt="Chile flag" /> | [Grace Kennedy Group](https://gracekennedy.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/jm.svg" width="16" alt="Jamaica flag" /> | [Farfetch](https://farfetch.pt/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> | [Multivision](https://multivision.pt/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> | [Banco BS2](https://www.bancobs2.com.br/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [K2 Partnering Solutions](https://k2partnering.com/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [C&A](https://www.cea.com.br/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> | [Inovação Media Brasil](https://www.editorainovacao.com.br/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />.
+
+---
+
+## 🏗️ Industry Expertise
+
+Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCommerce 🛒 | E-commerce 🧺 | System Integrations ⚙️
 
 ---
 
