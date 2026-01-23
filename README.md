@@ -22,6 +22,7 @@
 ## 💼 Professional Experience
 
 ### Senior Software Engineer @ [OUTsurance Ireland](https://www.outsurance.ie/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" />
+
 **April 2023 - Present | Dublin, Ireland**
 
 Working as a Senior Software Engineer at an online insurance company, part of the [OUTsurance South Africa](https://www.outsurance.co.za/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/za.svg" width="16" alt="South Africa flag" /> and [Youi Australia](https://www.youi.com.au/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/au.svg" width="16" alt="Australia flag" /> group.
@@ -33,6 +34,7 @@ Working as a Senior Software Engineer at an online insurance company, part of th
 ---
 
 ### Backend Engineer @ [Talabat](https://talabat.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" />
+
 **2021 - 2023 | Dubai, UAE**
 
 Contributed to a leading [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery platform in the [GCC](https://en.wikipedia.org/wiki/Gulf_Cooperation_Council) and [MENA](https://en.wikipedia.org/wiki/MENA) regions, part of [Delivery Hero](https://deliveryhero.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/de.svg" width="16" alt="Germany flag" />
@@ -44,6 +46,7 @@ Contributed to a leading [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) 
 ---
 
 ### Backend Engineer @ [Farfetch](https://farfetch.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" />
+
 **December 2020 - May 2021 | Porto, Portugal**
 
 Contributed to a leading global platform in the luxury fashion online market, focusing on search infrastructure and data-driven solutions.
@@ -55,6 +58,7 @@ Contributed to a leading global platform in the luxury fashion online market, fo
 ---
 
 ### Backend Engineer @ [Banco BS2](https://www.bancobs2.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />
+
 **2019 - 2021 | Brazil**
 
 Developed critical banking infrastructure for a digital banking institution, specializing in payment systems and open banking solutions.
@@ -66,6 +70,7 @@ Developed critical banking infrastructure for a digital banking institution, spe
 ---
 
 ### E-commerce Developer
+
 **2011 - 2019 | Various Companies**
 
 Spent eight years building e-commerce solutions, with extensive experience using [VTEX](https://vtex.com) PaaS (Platform as a Service).
@@ -87,11 +92,12 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
- - 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
- - 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
- - 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
- - 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
+
+- 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
+- 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
+- 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
+- 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
+- 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
