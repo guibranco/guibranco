@@ -27,7 +27,7 @@
 
 Working as a Senior Software Engineer at an online insurance company, part of the [OUTsurance South Africa](https://www.outsurance.co.za/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/za.svg" width="16" alt="South Africa flag" /> and [Youi Australia](https://www.youi.com.au/) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/au.svg" width="16" alt="Australia flag" /> group.
 
-**Key responsibilities:** Building and maintaining billing and financial services, policy administration systems, and rerates services.
+**Key responsibilities:** Building and maintaining billing and financial services, policy administration systems, and renewal services.
 
 **Tech stack:** C# (.NET 6, 7, 8, 8 and 10), Docker, Azure DevOps, Azure CosmosDB, Terraform, Azure Service Bus, RabbitMQ, Microsoft SQL Server
 
@@ -35,7 +35,7 @@ Working as a Senior Software Engineer at an online insurance company, part of th
 
 ### Backend Engineer @ [Talabat](https://talabat.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ae.svg" width="16" alt="UAE flag" />
 
-**2021 - 2023 | Dubai, UAE**
+**May 2021 - March 2023 | Dubai, UAE**
 
 Contributed to a leading [Q-commerce](https://en.wikipedia.org/wiki/Q-commerce) delivery platform in the [GCC](https://en.wikipedia.org/wiki/Gulf_Cooperation_Council) and [MENA](https://en.wikipedia.org/wiki/MENA) regions, part of [Delivery Hero](https://deliveryhero.com) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/de.svg" width="16" alt="Germany flag" />
 
@@ -59,7 +59,7 @@ Contributed to a leading global platform in the luxury fashion online market, fo
 
 ### Backend Engineer @ [Banco BS2](https://www.bancobs2.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />
 
-**2019 - 2021 | Brazil**
+**March 2019 - January 2021 | Brazil**
 
 Developed critical banking infrastructure for a digital banking institution, specializing in payment systems and open banking solutions.
 
