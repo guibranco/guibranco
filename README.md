@@ -92,12 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
-- 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
-- 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
-- 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
-- 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
+ - 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
+ - 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
+ - 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
+ - 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
