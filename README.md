@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [AppVeyor vs GitHub Actions](https://blog.guilhermebranco.com.br/appveyor-vs-github-actions/)
- - 🔥 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://blog.guilhermebranco.com.br/rabbitmq-gratuito/)
- - 💫 [Dev Essentials – JetBrains ReSharper Extensions](https://blog.guilhermebranco.com.br/dev-essentials-jetbrains-resharper-extensions/)
- - 🚀 [Dev Essentials – Visual Studio Code Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-code-extensions/)
- - 🌮 [Dev Essentials – Visual Studio &lpar;IDE&rpar; Extensions](https://blog.guilhermebranco.com.br/dev-essentials-visual-studio-ide-extensions/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Deploying a PHP Application to Ubuntu VPS](https://guilherme.stracini.com.br/blog/artigos/deploying-a-php-application-to-ubuntu-vps/)
+ - 🔥 [Envio de SMS pela Internet: Da API ao Smartphone como Gateway](https://guilherme.stracini.com.br/blog/artigos/envio-sms-internet/)
+ - 💫 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://guilherme.stracini.com.br/blog/artigos/rabbitmq-gratuito-cloudamqp/)
+ - 🚀 [Qual linguagem de programação devo escolher?](https://guilherme.stracini.com.br/blog/artigos/qual-linguagem-de-programacao-escolher/)
+ - 🌮 [Top blogs that power up my learning journey](https://guilherme.stracini.com.br/blog/artigos/top-blogs-learning-journey/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
