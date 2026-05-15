@@ -100,7 +100,7 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 <!-- BLOG-POST-LIST:END -->
 
 
-[View all blob posts](https://guilherme.stracini.com.br/blog/)
+[View all blog posts](https://guilherme.stracini.com.br/blog/)
 
 ---
 
