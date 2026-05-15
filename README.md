@@ -92,12 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Deploying a C# Application to Ubuntu VPS with Nginx, SSL and Load Balancing](https://guilherme.stracini.com.br/blog/artigos/deploying-csharp-application-ubuntu-vps-nginx-ssl-load-balancing/)
- - 🔥 [Deploying a PHP Application to Ubuntu VPS](https://guilherme.stracini.com.br/blog/artigos/deploying-a-php-application-to-ubuntu-vps/)
- - 💫 [Envio de SMS pela Internet: Da API ao Smartphone como Gateway](https://guilherme.stracini.com.br/blog/artigos/envio-sms-internet/)
- - 🚀 [Desafio das 52 Semanas: um guia de economia gradual para iniciantes](https://guilherme.stracini.com.br/blog/artigos/desafio-52-semanas-guia-economia-gradual-iniciantes/)
- - 🌮 [RabbitMQ gratuito: Potencialize sua arquitetura de mensageria sem custos](https://guilherme.stracini.com.br/blog/artigos/rabbitmq-gratuito-cloudamqp/)
-<!-- BLOG-POST-LIST:END -->
+ - 💯 [Quais testes são de responsabilidade do desenvolvedor e quais são do QA?](https://guilherme.stracini.com.br/blog/artigos/quais-testes-sao-de-responsabilidade-do-desenvolvedor-e-quais-sao-do-qa/)
+ - 🔥 [Deploying a C# Application to Ubuntu VPS with Nginx, SSL and Load Balancing](https://guilherme.stracini.com.br/blog/artigos/deploying-csharp-application-ubuntu-vps-nginx-ssl-load-balancing/)
+ - 💫 [Deploying a PHP Application to Ubuntu VPS](https://guilherme.stracini.com.br/blog/artigos/deploying-a-php-application-to-ubuntu-vps/)
+ - 🚀 [Envio de SMS pela Internet: Da API ao Smartphone como Gateway](https://guilherme.stracini.com.br/blog/artigos/envio-sms-internet/)
+ - 🌮 [Desafio das 52 Semanas: um guia de economia gradual para iniciantes](https://guilherme.stracini.com.br/blog/artigos/desafio-52-semanas-guia-economia-gradual-iniciantes/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
