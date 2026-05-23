@@ -29,7 +29,7 @@ Working as a Senior Software Engineer at an online insurance company, part of th
 
 **Key responsibilities:** Building and maintaining billing and financial services, policy administration systems, and renewal services.
 
-**Tech stack:** C# (.NET 6, 7, 8, 8 and 10), Docker, Azure DevOps, Azure CosmosDB, Terraform, Azure Service Bus, RabbitMQ, Microsoft SQL Server
+**Tech stack:** C# (.NET 6 to 10), Docker, Azure DevOps, Azure CosmosDB, Terraform, Azure Service Bus, RabbitMQ, Microsoft SQL Server
 
 ---
 
