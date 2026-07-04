@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Deploy de aplicação C# .NET 10 em VPS Ubuntu com Nginx, SSL e rolling deploy](https://guilherme.stracini.com.br/blog/artigos/deploy-csharp-dotnet10-vps-nginx-load-balancing-rolling-deploy/)
- - 🔥 [Playing with Docker: NGINX, Apache, RabbitMQ, MailHog, MySQL/MariaDB](https://guilherme.stracini.com.br/blog/artigos/playing-with-docker-nginx-apache-rabbitmq-mailhog-mysql/)
- - 💫 [Albânia em 7 dias: Sarande, Ksamil e Corfu — o melhor custo-benefício da Europa saindo da Irlanda](https://guilherme.stracini.com.br/blog/artigos/albania-sarande-ksamil-corfu-roteiro-7-dias/)
- - 🚀 [Show do Alok na O2 Brixton, M&amp;amp;M’s World e Covent Garden — 3 dias em Londres saindo da Irlanda](https://guilherme.stracini.com.br/blog/artigos/show-alok-londres-o2-brixton/)
- - 🌮 [Independência Financeira: os primeiros passos](https://guilherme.stracini.com.br/blog/artigos/independencia-financeira-primeiros-passos/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [18 serviços em 4 VMs de 1 GB: arquitetando no free tier sem sofrer](https://guilherme.stracini.com.br/blog/artigos/18-servicos-4-vms-1gb-free-tier/)
+ - 🔥 [Deploy de aplicação C# .NET 10 em VPS Ubuntu com Nginx, SSL e rolling deploy](https://guilherme.stracini.com.br/blog/artigos/deploy-csharp-dotnet10-vps-nginx-load-balancing-rolling-deploy/)
+ - 💫 [Playing with Docker: NGINX, Apache, RabbitMQ, MailHog, MySQL/MariaDB](https://guilherme.stracini.com.br/blog/artigos/playing-with-docker-nginx-apache-rabbitmq-mailhog-mysql/)
+ - 🚀 [Albânia em 7 dias: Sarande, Ksamil e Corfu — o melhor custo-benefício da Europa saindo da Irlanda](https://guilherme.stracini.com.br/blog/artigos/albania-sarande-ksamil-corfu-roteiro-7-dias/)
+ - 🌮 [Show do Alok na O2 Brixton, M&amp;amp;M’s World e Covent Garden — 3 dias em Londres saindo da Irlanda](https://guilherme.stracini.com.br/blog/artigos/show-alok-londres-o2-brixton/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
