@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A tesoura do mercado júnior: vagas, candidatos e hype &lpar;2019–2026&rpar;](https://guilherme.stracini.com.br/blog/artigos/a-tesoura-do-mercado-junior/)
- - 🔥 [18 serviços em 4 VMs de 1 GB: arquitetando no free tier sem sofrer](https://guilherme.stracini.com.br/blog/artigos/18-servicos-4-vms-1gb-free-tier/)
- - 💫 [Deploy de aplicação C# .NET 10 em VPS Ubuntu com Nginx, SSL e rolling deploy](https://guilherme.stracini.com.br/blog/artigos/deploy-csharp-dotnet10-vps-nginx-load-balancing-rolling-deploy/)
- - 🚀 [Playing with Docker: NGINX, Apache, RabbitMQ, MailHog, MySQL/MariaDB](https://guilherme.stracini.com.br/blog/artigos/playing-with-docker-nginx-apache-rabbitmq-mailhog-mysql/)
- - 🌮 [Albânia em 7 dias: Sarande, Ksamil e Corfu — o melhor custo-benefício da Europa saindo da Irlanda](https://guilherme.stracini.com.br/blog/artigos/albania-sarande-ksamil-corfu-roteiro-7-dias/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)
+ - 🔥 [A tesoura do mercado júnior: vagas, candidatos e hype &lpar;2019–2026&rpar;](https://guilherme.stracini.com.br/blog/artigos/a-tesoura-do-mercado-junior/)
+ - 💫 [18 serviços em 4 VMs de 1 GB: arquitetando no free tier sem sofrer](https://guilherme.stracini.com.br/blog/artigos/18-servicos-4-vms-1gb-free-tier/)
+ - 🚀 [Deploy de aplicação C# .NET 10 em VPS Ubuntu com Nginx, SSL e rolling deploy](https://guilherme.stracini.com.br/blog/artigos/deploy-csharp-dotnet10-vps-nginx-load-balancing-rolling-deploy/)
+ - 🌮 [Playing with Docker: NGINX, Apache, RabbitMQ, MailHog, MySQL/MariaDB](https://guilherme.stracini.com.br/blog/artigos/playing-with-docker-nginx-apache-rabbitmq-mailhog-mysql/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
