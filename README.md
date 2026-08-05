@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)
- - 🔥 [A tesoura do mercado júnior: vagas, candidatos e hype &lpar;2019–2026&rpar;](https://guilherme.stracini.com.br/blog/artigos/a-tesoura-do-mercado-junior/)
- - 💫 [18 serviços em 4 VMs de 1 GB: arquitetando no free tier sem sofrer](https://guilherme.stracini.com.br/blog/artigos/18-servicos-4-vms-1gb-free-tier/)
- - 🚀 [Deploy de aplicação C# .NET 10 em VPS Ubuntu com Nginx, SSL e rolling deploy](https://guilherme.stracini.com.br/blog/artigos/deploy-csharp-dotnet10-vps-nginx-load-balancing-rolling-deploy/)
- - 🌮 [Playing with Docker: NGINX, Apache, RabbitMQ, MailHog, MySQL/MariaDB](https://guilherme.stracini.com.br/blog/artigos/playing-with-docker-nginx-apache-rabbitmq-mailhog-mysql/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Trabalhar fora sem ilusão: currículo, chegada e os primeiros meses](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-curriculo-chegada/)
+ - 🔥 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)
+ - 💫 [Trabalhar fora sem ilusão: por que o salário bruto mente](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-salario-bruto-mente/)
+ - 🚀 [A tesoura do mercado júnior: vagas, candidatos e hype &lpar;2019–2026&rpar;](https://guilherme.stracini.com.br/blog/artigos/a-tesoura-do-mercado-junior/)
+ - 🌮 [Trabalhar fora sem ilusão: as três rotas e os pisos salariais de 2026](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-rotas-vistos/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
