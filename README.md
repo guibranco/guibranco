@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Trabalhar fora sem ilusão: currículo, chegada e os primeiros meses](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-curriculo-chegada/)
- - 🔥 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)
- - 💫 [Trabalhar fora sem ilusão: por que o salário bruto mente](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-salario-bruto-mente/)
- - 🚀 [A tesoura do mercado júnior: vagas, candidatos e hype &lpar;2019–2026&rpar;](https://guilherme.stracini.com.br/blog/artigos/a-tesoura-do-mercado-junior/)
- - 🌮 [Trabalhar fora sem ilusão: as três rotas e os pisos salariais de 2026](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-rotas-vistos/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Trabalhando pelo mundo #1 — Porto: a mudança que nunca aconteceu](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-porto-farfetch/)
+ - 🔥 [Trabalhar fora sem ilusão: currículo, chegada e os primeiros meses](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-curriculo-chegada/)
+ - 💫 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)
+ - 🚀 [Trabalhar fora sem ilusão: por que o salário bruto mente](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-salario-bruto-mente/)
+ - 🌮 [A tesoura do mercado júnior: vagas, candidatos e hype &lpar;2019–2026&rpar;](https://guilherme.stracini.com.br/blog/artigos/a-tesoura-do-mercado-junior/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
