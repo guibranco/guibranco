@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Repositório não é arquitetura: separar frontend e backend não é microserviço](https://guilherme.stracini.com.br/blog/artigos/repositorio-nao-e-arquitetura-frontend-backend-nao-e-microservico/)
- - 🔥 [Trabalhando pelo mundo #1 — Porto: a mudança que nunca aconteceu](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-porto-farfetch/)
- - 💫 [Trabalhar fora sem ilusão: currículo, chegada e os primeiros meses](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-curriculo-chegada/)
- - 🚀 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)
- - 🌮 [Trabalhar fora sem ilusão: por que o salário bruto mente](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-salario-bruto-mente/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Trabalhando pelo mundo #2 — Dubai: seis meses remoto do Brasil antes de pisar no deserto](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dubai-talabat/)
+ - 🔥 [Repositório não é arquitetura: separar frontend e backend não é microserviço](https://guilherme.stracini.com.br/blog/artigos/repositorio-nao-e-arquitetura-frontend-backend-nao-e-microservico/)
+ - 💫 [Trabalhando pelo mundo #1 — Porto: a mudança que nunca aconteceu](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-porto-farfetch/)
+ - 🚀 [Trabalhar fora sem ilusão: currículo, chegada e os primeiros meses](https://guilherme.stracini.com.br/blog/artigos/trabalhar-fora-sem-ilusao-curriculo-chegada/)
+ - 🌮 [A Map of My Infrastructure: How I Run a Dozen Side Projects on a Budget](https://guilherme.stracini.com.br/blog/artigos/my-infrastructure/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
