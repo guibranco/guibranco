@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A arquitetura do PIX vista por dentro: SPI, ISO 20022 e um orçamento de dez segundos](https://guilherme.stracini.com.br/blog/artigos/arquitetura-do-pix-por-dentro-spi-iso-20022-dez-segundos/)
- - 🔥 [Construindo o PIX no BS2: sete meses, um prazo do Banco Central e um AirBnB em BH](https://guilherme.stracini.com.br/blog/artigos/construindo-o-pix-no-bs2-bastidores-de-um-prazo-do-banco-central/)
- - 💫 [Trabalhando pelo mundo #2 — Dubai: seis meses remoto do Brasil antes de pisar no deserto](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dubai-talabat/)
- - 🚀 [Repositório não é arquitetura: separar frontend e backend não é microserviço](https://guilherme.stracini.com.br/blog/artigos/repositorio-nao-e-arquitetura-frontend-backend-nao-e-microservico/)
- - 🌮 [Trabalhando pelo mundo #1 — Porto: a mudança que nunca aconteceu](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-porto-farfetch/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Trabalhando pelo mundo #3 — Dublin: cheguei num domingo, comecei na segunda](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dublin-outsurance/)
+ - 🔥 [A arquitetura do PIX vista por dentro: SPI, ISO 20022 e um orçamento de dez segundos](https://guilherme.stracini.com.br/blog/artigos/arquitetura-do-pix-por-dentro-spi-iso-20022-dez-segundos/)
+ - 💫 [Construindo o PIX no BS2: sete meses, um prazo do Banco Central e um AirBnB em BH](https://guilherme.stracini.com.br/blog/artigos/construindo-o-pix-no-bs2-bastidores-de-um-prazo-do-banco-central/)
+ - 🚀 [Trabalhando pelo mundo #2 — Dubai: seis meses remoto do Brasil antes de pisar no deserto](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dubai-talabat/)
+ - 🌮 [Repositório não é arquitetura: separar frontend e backend não é microserviço](https://guilherme.stracini.com.br/blog/artigos/repositorio-nao-e-arquitetura-frontend-backend-nao-e-microservico/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
