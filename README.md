@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Júnior, pleno ou sênior: a pergunta de entrevista que separa os três](https://guilherme.stracini.com.br/blog/artigos/junior-pleno-senior-diferencas-praticas-entrevista/)
- - 🔥 [Malta em 8 dias: St. Julian’s, Comino e o sudeste da ilha — praias, baladas e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/malta-st-julians-comino-roteiro-8-dias/)
- - 💫 [Trabalhando pelo mundo #3 — Dublin: cheguei num domingo, comecei na segunda](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dublin-outsurance/)
- - 🚀 [A arquitetura do PIX vista por dentro: SPI, ISO 20022 e um orçamento de dez segundos](https://guilherme.stracini.com.br/blog/artigos/arquitetura-do-pix-por-dentro-spi-iso-20022-dez-segundos/)
- - 🌮 [Construindo o PIX no BS2: oito meses, um prazo do Banco Central e um AirBnB em BH](https://guilherme.stracini.com.br/blog/artigos/construindo-o-pix-no-bs2-bastidores-de-um-prazo-do-banco-central/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [A ilusão do portfólio: por que aquela página com sua foto não vai te arrumar emprego](https://guilherme.stracini.com.br/blog/artigos/a-ilusao-do-portfolio-nao-vai-te-arrumar-emprego/)
+ - 🔥 [Nove aeroportos em quinze dias: a primeira viagem depois de me mudar para Dubai](https://guilherme.stracini.com.br/blog/artigos/15-dias-europa-porto-madrid-bologna-malta/)
+ - 💫 [Júnior, pleno ou sênior: a pergunta de entrevista que separa os três](https://guilherme.stracini.com.br/blog/artigos/junior-pleno-senior-diferencas-praticas-entrevista/)
+ - 🚀 [Malta em 8 dias: St. Julian’s, Comino e o sudeste da ilha — praias, baladas e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/malta-st-julians-comino-roteiro-8-dias/)
+ - 🌮 [Trabalhando pelo mundo #3 — Dublin: cheguei num domingo, comecei na segunda](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dublin-outsurance/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
