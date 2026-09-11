@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [A ilusão do portfólio: por que aquela página com sua foto não vai te arrumar emprego](https://guilherme.stracini.com.br/blog/artigos/a-ilusao-do-portfolio-nao-vai-te-arrumar-emprego/)
- - 🔥 [Nove aeroportos em quinze dias: a primeira viagem depois de me mudar para Dubai](https://guilherme.stracini.com.br/blog/artigos/15-dias-europa-porto-madrid-bologna-malta/)
- - 💫 [Júnior, pleno ou sênior: a pergunta de entrevista que separa os três](https://guilherme.stracini.com.br/blog/artigos/junior-pleno-senior-diferencas-praticas-entrevista/)
- - 🚀 [Malta em 8 dias: St. Julian’s, Comino e o sudeste da ilha — praias, baladas e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/malta-st-julians-comino-roteiro-8-dias/)
- - 🌮 [Trabalhando pelo mundo #3 — Dublin: cheguei num domingo, comecei na segunda](https://guilherme.stracini.com.br/blog/artigos/trabalhando-pelo-mundo-dublin-outsurance/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Demitido no primeiro dia: o PJ, o exame agendado e o Glassdoor](https://guilherme.stracini.com.br/blog/artigos/postmortem-demitido-primeiro-dia-pj-exame-namorada/)
+ - 🔥 [A ilusão do portfólio: por que aquela página com sua foto não vai te arrumar emprego](https://guilherme.stracini.com.br/blog/artigos/a-ilusao-do-portfolio-nao-vai-te-arrumar-emprego/)
+ - 💫 [Nove aeroportos em quinze dias: a primeira viagem depois de me mudar para Dubai](https://guilherme.stracini.com.br/blog/artigos/15-dias-europa-porto-madrid-bologna-malta/)
+ - 🚀 [Júnior, pleno ou sênior: a pergunta de entrevista que separa os três](https://guilherme.stracini.com.br/blog/artigos/junior-pleno-senior-diferencas-praticas-entrevista/)
+ - 🌮 [Malta em 8 dias: St. Julian’s, Comino e o sudeste da ilha — praias, baladas e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/malta-st-julians-comino-roteiro-8-dias/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
