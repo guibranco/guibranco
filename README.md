@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Sete empresas em 2,7 anos: o pedido de troca de projeto que virou demissão](https://guilherme.stracini.com.br/blog/artigos/postmortem-demitido-experiencia-troca-projeto/)
- - 🔥 [Demitido no primeiro dia: o PJ, o exame agendado e o Glassdoor](https://guilherme.stracini.com.br/blog/artigos/postmortem-demitido-primeiro-dia-pj-exame-namorada/)
- - 💫 [A ilusão do portfólio: por que aquela página com sua foto não vai te arrumar emprego](https://guilherme.stracini.com.br/blog/artigos/a-ilusao-do-portfolio-nao-vai-te-arrumar-emprego/)
- - 🚀 [Nove aeroportos em quinze dias: a primeira viagem depois de me mudar para Dubai](https://guilherme.stracini.com.br/blog/artigos/15-dias-europa-porto-madrid-bologna-malta/)
- - 🌮 [Júnior, pleno ou sênior: a pergunta de entrevista que separa os três](https://guilherme.stracini.com.br/blog/artigos/junior-pleno-senior-diferencas-praticas-entrevista/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Tempo de Casa: o Que Realmente Acontece Com Quem Fica e Com Quem Troca de Empresa Toda Hora](https://guilherme.stracini.com.br/blog/artigos/tempo-de-casa-ficar-ou-pular-de-empresa/)
+ - 🔥 [Sete empresas em 2,7 anos: o pedido de troca de projeto que virou demissão](https://guilherme.stracini.com.br/blog/artigos/postmortem-demitido-experiencia-troca-projeto/)
+ - 💫 [Demitido no primeiro dia: o PJ, o exame agendado e o Glassdoor](https://guilherme.stracini.com.br/blog/artigos/postmortem-demitido-primeiro-dia-pj-exame-namorada/)
+ - 🚀 [A ilusão do portfólio: por que aquela página com sua foto não vai te arrumar emprego](https://guilherme.stracini.com.br/blog/artigos/a-ilusao-do-portfolio-nao-vai-te-arrumar-emprego/)
+ - 🌮 [Nove aeroportos em quinze dias: a primeira viagem depois de me mudar para Dubai](https://guilherme.stracini.com.br/blog/artigos/15-dias-europa-porto-madrid-bologna-malta/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
