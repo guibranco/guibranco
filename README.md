@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Estágio cultural no Egito: quando a desconfiança certa vira a conclusão errada](https://guilherme.stracini.com.br/blog/artigos/postmortem-aiesec-estagio-cultural-egito-trafico-humano/)
- - 🔥 [Oktoberfest 2026 em 5 dias: Munique, a Hofbräu-Festhalle e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/oktoberfest-2026-munique-5-dias/)
- - 💫 [O diploma sem o aprendizado: quem terceirizou os exercícios e depois reclamou da vaga](https://guilherme.stracini.com.br/blog/artigos/postmortem-exercicios-faculdade-vaga-estagio-sao-paulo/)
- - 🚀 [Tempo de Casa: o Que Realmente Acontece Com Quem Fica e Com Quem Troca de Empresa Toda Hora](https://guilherme.stracini.com.br/blog/artigos/tempo-de-casa-ficar-ou-pular-de-empresa/)
- - 🌮 [Sete empresas em 2,7 anos: o pedido de troca de projeto que virou demissão](https://guilherme.stracini.com.br/blog/artigos/postmortem-demitido-experiencia-troca-projeto/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [Cairo, Gizé e Hurghada em 6 dias: o Starlight Festival nas pirâmides e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/cairo-egito/)
+ - 🔥 [Três salários, nenhuma reserva: o post-mortem do over-employment](https://guilherme.stracini.com.br/blog/artigos/postmortem-carreira-05-over-employment/)
+ - 💫 [Estágio cultural no Egito: quando a desconfiança certa vira a conclusão errada](https://guilherme.stracini.com.br/blog/artigos/postmortem-aiesec-estagio-cultural-egito-trafico-humano/)
+ - 🚀 [Oktoberfest 2026 em 5 dias: Munique, a Hofbräu-Festhalle e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/oktoberfest-2026-munique-5-dias/)
+ - 🌮 [O diploma sem o aprendizado: quem terceirizou os exercícios e depois reclamou da vaga](https://guilherme.stracini.com.br/blog/artigos/postmortem-exercicios-faculdade-vaga-estagio-sao-paulo/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
