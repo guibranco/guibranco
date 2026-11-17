@@ -92,11 +92,11 @@ Financial Services 💵 | Insurance 💰 | Delivery 🛵 | Logistics 🚚 | QCom
 ## 🗣️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 [LogStream: por que construí minha própria ferramenta de logs &lpar;sabendo que não deveria&rpar;](https://guilherme.stracini.com.br/blog/artigos/logstream-ferramenta-de-logs-propria/)
- - 🔥 [A parede de 50 metros: a IA barateou o tijolo, não a fundação](https://guilherme.stracini.com.br/blog/artigos/a-parede-de-50-metros-engenharia-de-software-na-era-da-ia/)
- - 💫 [Feature Flags vs. A/B Testing: Same Switch, Different Questions](https://guilherme.stracini.com.br/blog/artigos/feature-flags-vs-ab-testing/)
- - 🚀 [Cairo, Gizé e Hurghada em 6 dias: o Starlight Festival nas pirâmides e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/cairo-egito/)
- - 🌮 [Três salários, nenhuma reserva: o post-mortem do over-employment](https://guilherme.stracini.com.br/blog/artigos/postmortem-carreira-05-over-employment/)<!-- BLOG-POST-LIST:END -->
+ - 💯 [payslip-archiver: un-locking my payslips so I never type that password again](https://guilherme.stracini.com.br/blog/artigos/payslip-archiver/)
+ - 🔥 [LogStream: por que construí minha própria ferramenta de logs &lpar;sabendo que não deveria&rpar;](https://guilherme.stracini.com.br/blog/artigos/logstream-ferramenta-de-logs-propria/)
+ - 💫 [A parede de 50 metros: a IA barateou o tijolo, não a fundação](https://guilherme.stracini.com.br/blog/artigos/a-parede-de-50-metros-engenharia-de-software-na-era-da-ia/)
+ - 🚀 [Feature Flags vs. A/B Testing: Same Switch, Different Questions](https://guilherme.stracini.com.br/blog/artigos/feature-flags-vs-ab-testing/)
+ - 🌮 [Cairo, Gizé e Hurghada em 6 dias: o Starlight Festival nas pirâmides e os custos reais saindo de Dublin](https://guilherme.stracini.com.br/blog/artigos/cairo-egito/)<!-- BLOG-POST-LIST:END -->
 
 
 [View all blog posts](https://guilherme.stracini.com.br/blog/)
